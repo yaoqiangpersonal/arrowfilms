@@ -11,14 +11,23 @@ from scrapy.exporters import   CsvItemExporter
 class ArrowfilmsPipeline:
 
     def open_spider(self, spider):
-        f = open("arrow.csv",'wb')
-        exporter = CsvItemExporter(f)
-        exporter.start_exporting()
-        self.exporter =exporter
-        
+        self.year_to_exporter = {}
 
     def close_spider(self, spider):
-        self.exporter.finish_exporting()
+        for exporter in self.year_to_exporter.values():
+            exporter.finish_exporting()
+
+    def _exporter_for_item(self, item):
+        adapter = ItemAdapter(item)
+        year = adapter['year']
+        if year not in self.year_to_exporter:
+            f = open(f'{year}.xml', 'wb')
+            exporter = CsvItemExporter(f)
+            exporter.start_exporting()
+            self.year_to_exporter[year] = exporter
+        return self.year_to_exporter[year]
 
     def process_item(self, item, spider):
-        self.exporter.export_item(item)
+        exporter = self._exporter_for_item(item)
+        exporter.export_item(item)
+        return item

@@ -15,5 +15,5 @@ class ArrowfilmsItem(scrapy.Item):
     ReleaseDate = scrapy.Field()
     ProductCode = scrapy.Field()
     ProductName = scrapy.Field()
-    Desc = scrapy.Field()
+    year = scrapy.Field()
     
