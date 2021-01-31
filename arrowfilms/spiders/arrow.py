@@ -24,6 +24,7 @@ class ArrowSpider(scrapy.Spider):
             'IsSortByAscendin': 'false'
         }
         for page in range(1,79):
+
             data['RequestingPageNumber'] = page
             yield scrapy.Request("https://api.arrowfilms.com/Umbraco/api/ProductSearch/GetAllActiveFilteredProducts?",
                                 body=json.dumps(data),
@@ -66,13 +67,15 @@ class ArrowSpider(scrapy.Spider):
                 yield a
                 yield from response.follow_all(urls, meta={"proxy": self.proxy})
         else:
+            url = response.url
+            id = url[url.rfind("/")+1:-1]
             keyList  = response.css('#details-text').re(r'<b>(.+?):</b>')
             valueList  = response.css('#details-text::text').re(r'^[^\r]\s?(.+)\b')
             # 一种写法
             dic = {keyList[i]:valueList[i] for i in range(len(keyList)) }
             
             dic['year'] = 'desc'
-            print(dic)
+            dic['code'] = id
             # 简写
             #dic = dict(zip(keyList,valueList))
             #dic['year'] = 'desc'

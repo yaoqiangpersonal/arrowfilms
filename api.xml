@@ -1,0 +1,932 @@
+ProductCode,ProductId,ProductName,ProductOfferPrice,ReleaseDate,StandardPrice,year
+FCD2039,1370,Bicycle Thieves Blu-ray,0.0,2020-08-24T00:00:00Z,18.0,api
+FCD2040,1371,Bicycle Thieves DVD,0.0,2020-08-24T00:00:00Z,12.0,api
+FCD2050,1374,Black Test Car + The Black Report Blu-ray,0.0,2020-08-24T00:00:00Z,18.0,api
+FCD2082,1378,Narcos: Mexico Season 1 Blu-ray,0.0,2020-08-24T00:00:00Z,22.0,api
+FCD2083,1379,Narcos: Mexico Season 1 DVD,0.0,2020-08-24T00:00:00Z,18.0,api
+FCD2014,1329,Gamera: The Complete Collection,0.0,2020-08-17T00:00:00Z,125.0,api
+FCD2036,1373,Pitch Black Special Edition Blu-ray,0.0,2020-08-17T00:00:00Z,18.0,api
+FCD2017,1372,Pitch Black UHD Special Edition Blu-ray,0.0,2020-08-17T00:00:00Z,25.0,api
+FCD1947,1365,The Last House on the Left Blu-ray,0.0,2020-08-17T00:00:00Z,18.0,api
+TWFBD051,1376,Fish Story Blu-ray,0.0,2020-08-10T00:00:00Z,15.0,api
+TWF025,1461,Fish Story DVD,0.0,2020-08-10T00:00:00Z,10.0,api
+SECONDRUNBD032,1452,Tenderness (Niha) Blu-ray,0.0,2020-08-10T00:00:00Z,18.0,api
+FCD2105,1511,JSA - Joint Security Area Blu-ray,0.0,2021-01-18T00:00:00Z,18.0,api
+SECONDRUNBD036,1524,Liberté Blu-ray,0.0,2021-01-11T00:00:00Z,18.0,api
+FCD2104,1510,[REC] Blu-ray,0.0,2021-01-04T00:00:00Z,18.0,api
+FCD2073,1472,Crash Limited Edition Blu-ray,0.0,2020-12-14T00:00:00Z,25.0,api
+FCD2072,1471,Crash Limited Edition UHD,0.0,2020-12-14T00:00:00Z,30.0,api
+FCD2061,1476,Tremors Limited Edition Blu-ray,0.0,2020-12-14T00:00:00Z,25.0,api
+FCD2089,1477,Tremors Limited Edition UHD,0.0,2020-12-14T00:00:00Z,30.0,api
+FCD2055,1442,Cinema Paradiso Blu-ray,0.0,2020-12-07T00:00:00Z,18.0,api
+FCD2056,1443,Cinema Paradiso DVD,0.0,2020-12-07T00:00:00Z,12.0,api
+FCD2006,1470,He Came from the Swamp: The William Grefé Collection Blu-ray,0.0,2020-11-30T00:00:00Z,65.0,api
+SECONDRUNBD035,1508,"Goodbye, Dragon Inn Blu-ray",0.0,2020-11-23T00:00:00Z,18.0,api
+SECONDRUN132,1509,"Goodbye, Dragon Inn DVD",0.0,2020-11-23T00:00:00Z,12.0,api
+FCD2051,1467,King of New York Special Edition Blu-ray,0.0,2020-11-16T00:00:00Z,18.0,api
+FCD2054,1441,Cinema Paradiso UHD Blu-ray,0.0,2020-12-07T00:00:00Z,25.0,api
+FCD2002,1474,Survivor Ballads: Three Films by Shohei Imamura,0.0,2020-12-07T00:00:00Z,50.0,api
+FCD2052,1468,King of New York Special Edition DVD,0.0,2020-11-16T00:00:00Z,15.0,api
+FCD2053,1469,King of New York UHD Special Edition,0.0,2020-11-16T00:00:00Z,25.0,api
+FCD2071,1466,Burst City Blu-ray,0.0,2020-11-09T00:00:00Z,18.0,api
+FCD2097,1516,Gamera - The Heisei Trilogy (Steelbook) Blu-ray,0.0,2021-02-22T00:00:00Z,35.0,api
+FCD2077,1523,Primer + Upstream Color: Two Films by Shane Carruth,0.0,2021-02-22T00:00:00Z,18.0,api
+FCD1984,1522,Shogun's Joy of Torture Blu-ray,0.0,2021-02-22T00:00:00Z,18.0,api
+FCD2101,1518,Beyond Re-Animator Blu-ray,0.0,2021-02-01T00:00:00Z,18.0,api
+FCD2000,1475,Versus Blu-ray,0.0,2020-12-07T00:00:00Z,18.0,api
+TWFBD053,1455,The Taste of Tea Blu-ray,0.0,2020-10-05T00:00:00Z,15.0,api
+SECONDRUNBD033,1463,Ghost Hunting Blu-ray,0.0,2020-09-28T00:00:00Z,18.0,api
+SECONDRUN131,1464,Ghost Hunting DVD,0.0,2020-09-28T00:00:00Z,12.0,api
+FCD2044,1451,Ivansxtc Blu-ray,0.0,2020-09-28T00:00:00Z,18.0,api
+FCD2003,1444,Georges Méliès' A Trip to the Moon & Autobiography Blu-ray,0.0,2020-09-21T00:00:00Z,45.0,api
+SECONDRUNBD034,1478,How You Live Your Story: Selected works by Kevin Jerome Everson Blu-ray,0.0,2020-11-09T00:00:00Z,18.0,api
+FCD2103,1519,The El Duce Tapes Blu-ray,0.0,2021-02-01T00:00:00Z,18.0,api
+TWFLP001,1456,The Legend of the Stardust Brothers - LP & EP Vinyl Limited Edition Set,0.0,2020-09-18T00:00:00Z,25.0,api
+FCD2009,1450,Jesus Shows You the Way to the Highway Blu-ray,0.0,2020-09-14T00:00:00Z,18.0,api
+TWFBD054,1473,Gemini Blu-ray,0.0,2020-11-02T00:00:00Z,18.0,api
+FCD2096,1514,Gamera - The Heisei Era Blu-ray,0.0,2021-01-25T00:00:00Z,50.0,api
+FCD2084,1495,American Horror Project Vol 1 Blu-ray,0.0,2020-10-12T00:00:00Z,30.0,api
+FCD2085,1496,American Horror Project Vol 2 Blu-ray,0.0,2020-10-12T00:00:00Z,30.0,api
+TWFBD052,1377,Melancholic Dual Format,0.0,2020-09-07T00:00:00Z,18.0,api
+FCD2019,1465,Lake Michigan Monster Blu-ray,0.0,2020-11-02T00:00:00Z,18.0,api
+FCD2068,1462,The Sheltering Sky Blu-ray,0.0,2020-11-02T00:00:00Z,18.0,api
+FCD2095,1513,Gamera - The Showa Era Blu-ray,0.0,2021-01-25T00:00:00Z,50.0,api
+FCD2108,1512,Oldboy UHD,0.0,2021-01-25T00:00:00Z,25.0,api
+FCD2070,1515,Southland Tales Blu-ray,0.0,2021-01-25T00:00:00Z,18.0,api
+FCD2088,1498,Beyond the Door Blu-ray,0.0,2020-10-12T00:00:00Z,18.0,api
+FCD2086,1494,Camera Obscura: The Walerian Borowczyk Collection,0.0,2020-10-12T00:00:00Z,50.0,api
+FCD2092,1501,Creepshow 2 Blu-ray,0.0,2020-10-12T00:00:00Z,18.0,api
+FCD2081,1375,The Comic Limited Edition Blu-ray,0.0,2020-08-31T00:00:00Z,18.0,api
+SECONDRUNBD030,1340,Vitalina Varela Blu-ray,0.0,2020-08-31T00:00:00Z,18.0,api
+FCD2094,1459,Cold Light of Day Blu-ray,0.0,2020-10-26T00:00:00Z,18.0,api
+SECONDRUNBD037,1525,Tomorrow I'll Wake Up and Scald Myself with Tea Blu-ray,0.0,2021-01-25T00:00:00Z,18.0,api
+FCD2078,1500,Hagazussa Blu-ray,0.0,2020-10-12T00:00:00Z,18.0,api
+FCD1987,1499,Love & Death: The Films of Jörg Buttgereit,0.0,2020-10-12T00:00:00Z,50.0,api
+FCD2093,1502,The Far Country Blu-ray,0.0,2020-10-12T00:00:00Z,18.0,api
+SECONDRUN130,1341,Vitalina Varela DVD,0.0,2020-08-31T00:00:00Z,12.0,api
+SECONDRUN133,1526,Tomorrow I'll Wake Up and Scald Myself with Tea DVD,0.0,2021-01-25T00:00:00Z,12.0,api
+FCD2087,1497,The Herschell Gordon Lewis Feast Blu-ray,0.0,2020-10-12T00:00:00Z,50.0,api
+FCD1932,1318,Alejandro Jodorowsky Collection Limited Edition Blu-ray,0.0,2020-08-24T00:00:00Z,60.0,api
+FCD1916,1364,The Game Limited Edition Blu-ray,0.0,2020-08-03T00:00:00Z,40.0,api
+FCD2049,1369,Toto the Hero Blu-ray,0.0,2020-08-03T00:00:00Z,18.0,api
+FCD1990,1446,Blood Hunger: The Films of Jose Larraz Special Edition Blu-ray,0.0,2020-07-20T00:00:00Z,50.0,api
+FCD2016,1358,Bloodstone Blu-ray,0.0,2020-07-20T00:00:00Z,18.0,api
+TWFBD055,1517,Ujicha: Violence Voyager / Burning Buddha Man Blu-ray,0.0,2021-01-25T00:00:00Z,25.0,api
+FCD2059,1458,Warning From Space Blu-ray,0.0,2020-10-12T00:00:00Z,18.0,api
+FCD2058,1457,Little Nothings Blu-ray,0.0,2020-10-05T00:00:00Z,18.0,api
+FCD2048,1354,Life is a Long Quiet River Blu-ray,0.0,2020-07-20T00:00:00Z,18.0,api
+FCD2046,1366,Creepshow 2 Limited Edition Blu-ray,0.0,2020-07-13T00:00:00Z,25.0,api
+FCD2064,1535,Battle Royale Limited Edition Blu-ray,55.0,2021-04-26T00:00:00Z,60.0,api
+FCD2063,1534,Battle Royale Limited Edition UHD,60.0,2021-04-26T00:00:00Z,65.0,api
+FCD2113,1533,Donnie Darko Limited Edition UHD,0.0,2021-04-26T00:00:00Z,35.0,api
+FCD2060,1460,The Deeper You Dig Blu-ray,0.0,2020-10-05T00:00:00Z,18.0,api
+SECONDRUNBD031,1368,CzechMate - In Search of Jiří Menzel Blu-ray,0.0,2020-07-13T00:00:00Z,18.0,api
+FCD2079,1445,Four Film Noir Classics Blu-ray,0.0,2020-07-13T00:00:00Z,50.0,api
+FCD2043,1353,Hiroshima Blu-ray,0.0,2020-07-13T00:00:00Z,18.0,api
+FCD2057,1532,Switchblade Sisters Blu-ray,0.0,2021-04-19T00:00:00Z,18.0,api
+FCD2122,1531,Clapboard Jungle Blu-ray,0.0,2021-04-12T00:00:00Z,18.0,api
+FCD2114,1530,Death Has Blue Eyes Blu-ray,0.0,2021-04-05T00:00:00Z,18.0,api
+TWFBD050,1357,Hanagatami Blu-ray,0.0,2020-07-06T00:00:00Z,18.0,api
+FCD2004,1360,Inferno of Torture Blu-ray,0.0,2020-07-06T00:00:00Z,18.0,api
+FCD2018,1361,Zombie for Sale Blu-ray,0.0,2020-07-06T00:00:00Z,18.0,api
+FCD1963,1334,Dream Demon Blu-ray,0.0,2020-06-22T00:00:00Z,18.0,api
+TWFBD049,1342,Pink Films Vol 3 & 4 - Abnormal Family / Blue Film Woman Dual Format,0.0,2020-05-25T00:00:00Z,18.0,api
+FCD2007,1333,The Woman / Offspring Limited Edition Blu-ray,0.0,2020-05-25T00:00:00Z,18.0,api
+FCD1999,1331,White Fire Blu-ray,0.0,2020-05-25T00:00:00Z,18.0,api
+FCD2024,1336,"Empathy, Inc Blu-ray",0.0,2020-05-11T00:00:00Z,15.0,api
+FCD1985,1344,Phantasm 1-5 Boxset Standard Edition Blu-ray,0.0,2020-04-27T00:00:00Z,50.0,api
+FCD2026,1447,The Exorcist III Special Edition Blu-ray,0.0,2020-07-13T00:00:00Z,18.0,api
+FCD2080,1448,Three Films by Jia Zhang-ke Blu-ray,0.0,2020-07-13T00:00:00Z,30.0,api
+TWFBD056,1536,Pink Films Vol 5 & 6 - Underwater Love / Women Hell Song Blu-ray,0.0,2021-03-29T00:00:00Z,18.0,api
+FCD2131,1527,Tales From the Urban Jungle: Brute Force and The Naked City Blu-ray,0.0,2021-03-29T00:00:00Z,40.0,api
+FCD1996,1338,The Mad Fox Blu-ray,0.0,2020-06-22T00:00:00Z,18.0,api
+FCD2013,1339,Merry Christmas Mr Lawrence Blu-ray,0.0,2020-06-15T00:00:00Z,18.0,api
+FCD2033,1343,After Midnight Blu-ray,0.0,2020-06-08T00:00:00Z,18.0,api
+FCD2012,1337,America As Seen by a Frenchman Blu-ray,0.0,2020-06-01T00:00:00Z,18.0,api
+TWFBD048,1325,Tsukamoto: Killing / Haze / Denchukozo Ltd Ed Blu-ray,0.0,2020-04-27T00:00:00Z,22.0,api
+FCD1997,1323,Cinema of Conflict: Four Films by Krzysztof Kieślowski Ltd Ed Blu-ray,0.0,2020-04-20T00:00:00Z,55.0,api
+FCD1994,1324,Eric Rohmer 100 - Comedies and Proverbs Special Edition Blu-ray,0.0,2020-04-20T00:00:00Z,50.0,api
+FCD2041,1359,Black Rainbow Blu-ray,0.0,2020-07-06T00:00:00Z,18.0,api
+FCD2029,1350,"Khrustalyov, My Car! Standard Edition Blu-ray",0.0,2020-04-13T00:00:00Z,18.0,api
+FCD2027,1348,Nightbreed Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,18.0,api
+FCD1989,1347,Seijun Suzuki's The Taisho Trilogy Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,30.0,api
+FCD1988,1346,Stray Cat Rock Collection Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,30.0,api
+FCD2030,1351,The Hills Have Eyes Part 2 Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,18.0,api
+FCD2111,1529,The Bloodhound Blu-ray,0.0,2021-03-22T00:00:00Z,18.0,api
+FCD2110,1528,The Invisible Man Appears / The Invisible Man vs. The Human Fly Blu-ray,0.0,2021-03-15T00:00:00Z,18.0,api
+FCD2005,1332,Blood Tide Blu-ray,0.0,2020-05-25T00:00:00Z,18.0,api
+SECONDRUNBD029,1355,Distant Journey Blu-ray,0.0,2020-05-25T00:00:00Z,18.0,api
+FCD1982,1326,Why Don't You Just Die! Blu-ray,0.0,2020-04-20T00:00:00Z,15.0,api
+SECONDRUNBD028,1330,Curling Blu-ray,0.0,2020-04-13T00:00:00Z,18.0,api
+FCD1986,1345,Family Values: Three Films by Hirokazu Kore-eda Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,30.0,api
+FCD2028,1352,The Prey Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,18.0,api
+FCD1998,1327,The Wind Blu-ray,0.0,2020-04-13T00:00:00Z,18.0,api
+TWFBD047,1303,Pink Films Vol 1 & 2 Dual Format,0.0,2020-03-16T00:00:00Z,18.0,api
+FCD2035,1520,Demons 1 & 2 Limited Edition Blu-ray,0.0,2021-02-22T00:00:00Z,40.0,api
+FCD2090,1521,Demons 1 & 2 Limited Edition UHD,0.0,2021-02-22T00:00:00Z,50.0,api
+FCD1919,1271,Robocop Steelbook Blu-ray,0.0,2019-11-25T00:00:00Z,25.0,api
+FCD1934,1291,RoboCop: Director's Cut Blu-ray,0.0,2019-11-25T00:00:00Z,18.0,api
+FCD1962,1272,Hitchhike to Hell Blu-ray,0.0,2019-11-18T00:00:00Z,18.0,api
+SECONDRUNBD026,1298,The Emperor’s Naked Army Marches On Blu-ray,0.0,2019-11-11T00:00:00Z,18.0,api
+SECONDRUN129,1356,Distant Journey DVD,0.0,2020-05-25T00:00:00Z,12.0,api
+FCD2025,1349,Fear and Loathing in Las Vegas Standard Edition Blu-ray,0.0,2020-04-13T00:00:00Z,18.0,api
+FCD1983,1317,Kansas City Blu-ray,0.0,2020-03-02T00:00:00Z,18.0,api
+FCD1980,1296,Manon Blu-ray,0.0,2020-02-24T00:00:00Z,18.0,api
+SECONDRUN128,1299,The Emperor’s Naked Army Marches On DVD,0.0,2019-11-11T00:00:00Z,12.0,api
+FCD1915,1267,The Far Country Limited Edition Blu-ray,0.0,2019-11-11T00:00:00Z,18.0,api
+FCD1961,1268,Pickup Alley Blu-ray,0.0,2019-11-04T00:00:00Z,15.0,api
+FCD2010,1335,I See You Blu-ray,0.0,2020-05-25T00:00:00Z,15.0,api
+FCD1935,1304,One Missed Call Trilogy Blu-ray,0.0,2020-02-24T00:00:00Z,25.0,api
+FCD1967,1284,Six Gothic Tales Blu-ray,0.0,2019-10-28T00:00:00Z,50.0,api
+FCD1965,1283,The Complete Sartana Blu-ray,0.0,2019-10-28T00:00:00Z,50.0,api
+FCD1931,1229,Aniara Blu-ray,0.0,2019-10-21T00:00:00Z,15.0,api
+FCD1946,1218,Crimson Peak Blu-ray,0.0,2019-10-21T00:00:00Z,15.0,api
+FCD1964,1266,An American Werewolf in London Std Blu-ray,0.0,2019-10-28T00:00:00Z,18.0,api
+FCD1966,1282,Female Prisoner Scorpion Collection Blu-ray,0.0,2019-10-28T00:00:00Z,50.0,api
+FCD1948,1223,Man of a Thousand Faces Blu-ray,0.0,2019-10-28T00:00:00Z,15.0,api
+FCD1981,1306,Deadly Manor Blu-ray,0.0,2020-02-17T00:00:00Z,18.0,api
+FCD1941,1225,The Dead Center Blu-ray,0.0,2019-10-21T00:00:00Z,15.0,api
+FCD1942,1226,The Dead Center DVD,0.0,2019-10-21T00:00:00Z,12.0,api
+SECONDRUNBD025,1275,Journey to the Beginning of Time Blu-ray,0.0,2019-10-07T00:00:00Z,18.0,api
+FCD1972,1276,Satanic Panic Blu-ray,0.0,2019-10-28T00:00:00Z,15.0,api
+FCD1950,1277,Satanic Panic DVD,0.0,2019-10-28T00:00:00Z,12.0,api
+SECONDRUN127,1274,Journey to the Beginning of Time DVD,0.0,2019-10-07T00:00:00Z,12.0,api
+FCD1922,1203,Oldboy - Special Edition Two-disc Blu-ray,0.0,2019-10-07T00:00:00Z,18.0,api
+FCD1923,1204,Oldboy DVD,0.0,2019-10-07T00:00:00Z,12.0,api
+FCD1940,1222,The Bells of St Mary's Blu-ray,0.0,2019-10-07T00:00:00Z,15.0,api
+FCD1929,1230,Toys Are Not For Children Blu-ray,0.0,2019-10-07T00:00:00Z,18.0,api
+FCD1938,1221,Gomorrah The Series: Season 4 Blu-ray,0.0,2019-07-29T00:00:00Z,30.0,api
+FCD1924,1220,Gomorrah The Series: Season 4 DVD,0.0,2019-07-29T00:00:00Z,25.0,api
+FCD1856,1189,Lords of Chaos Blu-ray,0.0,2019-07-22T00:00:00Z,18.0,api
+FCD1901,1196,Sixteen Candles Blu-ray,0.0,2019-07-22T00:00:00Z,18.0,api
+FCD1902,1195,Weird Science Blu-ray,0.0,2019-07-22T00:00:00Z,18.0,api
+FCD1900,1191,Hold Back the Dawn Blu-ray,0.0,2019-07-15T00:00:00Z,18.0,api
+FCD1899,1198,The Chill Factor Blu-ray,0.0,2019-07-15T00:00:00Z,18.0,api
+FCD1898,1190,Bring Me the Head of Alfredo Garcia Blu-ray,0.0,2019-07-08T00:00:00Z,15.0,api
+FCD1897,1194,FM Blu-ray,0.0,2019-07-01T00:00:00Z,15.0,api
+SECONDRUNBD022,1264,A Case for a Rookie Hangman Blu-ray,0.0,2019-06-24T00:00:00Z,18.0,api
+SECONDRUN126,1242,A Case for a Rookie Hangman DVD,0.0,2019-06-24T00:00:00Z,12.0,api
+FCD1888,1179,Dekalog Blu-ray,0.0,2019-06-24T00:00:00Z,25.0,api
+FCD1859,1184,Def-Con 4 Blu-Ray,0.0,2019-06-10T00:00:00Z,18.0,api
+FCD1886,1178,Out 1 Blu-ray,0.0,2019-06-10T00:00:00Z,45.0,api
+FCD1890,1182,Nightfall Blu-ray,0.0,2019-06-03T00:00:00Z,18.0,api
+FCD1905,1188,The Andromeda Strain Blu-ray,0.0,2019-06-03T00:00:00Z,18.0,api
+FCD1884,1169,Demonlover Blu-ray,0.0,2019-05-27T00:00:00Z,18.0,api
+FCD1880,1170,The Big Clock Blu-ray,0.0,2019-05-27T00:00:00Z,18.0,api
+FCD1883,1175,Mega Time Squad Blu-ray,0.0,2019-05-20T00:00:00Z,18.0,api
+FCD1877,1168,She-Devils on Wheels Blu-ray,0.0,2019-05-20T00:00:00Z,15.0,api
+FCD1882,1177,Trapped Alive Blu-ray,0.0,2019-05-20T00:00:00Z,18.0,api
+TWFBD045,1162,Blue Spring Dual Format,0.0,2019-05-13T00:00:00Z,18.0,api
+FCD1879,1174,The Annihilators Blu-ray,0.0,2019-05-13T00:00:00Z,18.0,api
+FCD1881,1176,Yakuza Law Blu-ray,0.0,2019-05-13T00:00:00Z,18.0,api
+TWFBD046,1302,The Legend of the Stardust Brothers Dual Format with CD Soundtrack,0.0,2020-02-17T00:00:00Z,22.0,api
+FCD1978,1305,Daniel Isn't Real Blu-ray,0.0,2020-02-10T00:00:00Z,15.0,api
+FCD1977,1295,Hôtel du Nord Blu-ray,0.0,2020-02-10T00:00:00Z,18.0,api
+FCD1740,1300,Brain Damage Blu-ray,0.0,2020-02-03T00:00:00Z,18.0,api
+FCD1993,1301,Evil Ed Blu-ray,0.0,2020-02-03T00:00:00Z,18.0,api
+FCD1974,1290,Black Angel Blu-ray,0.0,2020-01-27T00:00:00Z,18.0,api
+FCD1975,1294,Edge of the Axe Blu-ray,0.0,2020-01-27T00:00:00Z,18.0,api
+FCD1976,1292,Harpoon Blu-ray,0.0,2020-01-27T00:00:00Z,15.0,api
+SECONDRUNBD027,1297,Valerie and Her Week of Wonders Blu-ray,0.0,2020-01-27T00:00:00Z,18.0,api
+FCD1939,1279,The Limits of Control Blu-ray,0.0,2019-12-09T00:00:00Z,18.0,api
+FCD1970,1281,The Vengeance Trilogy Blu-ray,0.0,2019-12-09T00:00:00Z,30.0,api
+FCD1968,1278,Model Shop Blu-ray,0.0,2019-12-02T00:00:00Z,18.0,api
+FCD1256,1224,Hellbound: Hellraiser II Blu-ray,0.0,2019-09-23T00:00:00Z,15.0,api
+FCD1937,1214,The Major and the Minor Blu-ray,0.0,2019-09-23T00:00:00Z,18.0,api
+FCD1936,1217,The Hills Have Eyes Part 2 Limited Edition Blu-ray,0.0,2019-09-16T00:00:00Z,20.0,api
+FCD1926,1215,Dark City Blu-ray,0.0,2019-09-02T00:00:00Z,18.0,api
+SECONDRUNBD024,1273,The Ear Blu-ray,0.0,2019-08-26T00:00:00Z,18.0,api
+FCD1757,896,Akio Jissôji: The Buddhist Trilogy Limited Edition,0.0,2019-08-19T00:00:00Z,50.0,api
+FCD1920,1201,Cruising Blu-ray,0.0,2019-08-19T00:00:00Z,18.0,api
+FCD1933,1219,Unknown Soldier DVD,0.0,2019-08-19T00:00:00Z,12.0,api
+FCD1914,1199,Being John Malkovich Blu-ray,0.0,2019-08-12T00:00:00Z,18.0,api
+FCD1903,1197,Schramm Limited Edition Blu-ray + CD,0.0,2019-08-12T00:00:00Z,25.0,api
+SECONDRUNBD023,1265,A Blonde in Love Blu-ray,0.0,2019-07-29T00:00:00Z,18.0,api
+FCD1904,1192,Crime and Punishment Blu-ray,0.0,2019-07-29T00:00:00Z,18.0,api
+FCD1893,1186,American Horror Project Vol. 2 Ltd Ed Blu-ray,0.0,2019-06-17T00:00:00Z,50.0,api
+FCD1842,1211,Candyman Blu-ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1911,1210,City of the Living Dead Blu-ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1894,1187,Double Face Blu-ray,0.0,2019-06-17T00:00:00Z,15.0,api
+FCD1907,1212,House: The Collection Blu-ray,0.0,2019-06-17T00:00:00Z,50.0,api
+FCD1841,1207,Lifeforce Remastered Blu-ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1910,1209,Phantasm Blu-ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1840,1206,The Endless Blu-ray,0.0,2019-06-17T00:00:00Z,15.0,api
+FCD1906,1213,The Ring Collection Blu-ray,0.0,2019-06-17T00:00:00Z,50.0,api
+FCD1892,1181,The Running Man Blu-ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1889,1185,The Sender Blu-Ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1908,1208,Waterworld Blu-ray,0.0,2019-06-17T00:00:00Z,18.0,api
+FCD1878,1173,In the Aftermath Blu-ray,0.0,2019-05-06T00:00:00Z,18.0,api
+FCD1860,1172,The Grand Duel Blu-ray,0.0,2019-05-06T00:00:00Z,18.0,api
+SECONDRUNBD021,1263,Everybody in Our Family Blu-ray,0.0,2019-04-29T00:00:00Z,18.0,api
+FCD1873,1166,Scared Stiff Blu-ray,0.0,2019-04-22T00:00:00Z,18.0,api
+AR011,1183,The Iguana with the Tongue of Fire Vinyl,0.0,2019-04-19T00:00:00Z,25.0,api
+FCD1781,1164,Black Moon Rising Blu-ray,0.0,2019-04-15T00:00:00Z,18.0,api
+FCD1870,1152,Mélo Blu-ray,0.0,2019-04-08T00:00:00Z,18.0,api
+FCD1875,1163,The Iguana with the Tongue of Fire  Blu-ray,0.0,2019-04-08T00:00:00Z,18.0,api
+FCD1867,1146,Duck Soup Blu-ray,0.0,2019-04-01T00:00:00Z,15.0,api
+FCD1868,1148,Monkey Business/Horse Feathers Blu-ray,0.0,2019-04-01T00:00:00Z,15.0,api
+FCD1874,1165,Terra Formars Blu-ray,0.0,2019-04-01T00:00:00Z,18.0,api
+FCD1869,1147,The Cocoanuts/Animal Crackers Blu-ray,0.0,2019-04-01T00:00:00Z,15.0,api
+FCD1794,1033,The Wizard of Gore Blu-ray,0.0,2018-11-12T00:00:00Z,15.0,api
+FCD1826,1058,Children of Men Blu-Ray,0.0,2018-11-05T00:00:00Z,18.0,api
+FCD1809,992,Edie Blu-ray,0.0,2018-10-29T00:00:00Z,15.0,api
+FCD1801,993,Edie DVD,0.0,2018-10-29T00:00:00Z,12.0,api
+SECONDRUNBD016,1258,Daisies Blu-ray,0.0,2018-10-22T00:00:00Z,18.0,api
+FCD1784,1029,Deadbeat at Dawn Blu-ray,0.0,2018-10-22T00:00:00Z,18.0,api
+FCD1819,1032,Schlock Blu-ray,0.0,2018-10-15T00:00:00Z,18.0,api
+FCD1821,1030,Twelve Monkeys Blu-ray,0.0,2018-10-15T00:00:00Z,18.0,api
+SECONDRUNBD015,1257,From Lift to The Road: The Films of Marc Isaacs Blu-ray,0.0,2018-10-08T00:00:00Z,28.0,api
+FCD1818,1024,The Early Films of Olivier Assayas Blu-ray,0.0,2018-10-08T00:00:00Z,18.0,api
+AB009,1063,"Father, Son, Sword: The Lone Wolf and Cub Saga (Arrow Books)",0.0,2018-09-28T00:00:00Z,15.0,api
+FCD1815,1085,Double Disc 15mm Blank Amaray Case,0.0,2018-09-26T00:00:00Z,2.0,api
+FCD1857,1180,Trapped Season 2 DVD,0.0,2019-04-01T00:00:00Z,25.0,api
+SECONDRUNBD020,1262,Ikarie XB 1 Blu-ray,0.0,2019-03-25T00:00:00Z,18.0,api
+AR010,1171,Whirlpool - Translucent Clear Vinyl,0.0,2019-03-22T00:00:00Z,25.0,api
+FCD1865,1142,Ring Blu-ray,0.0,2019-03-18T00:00:00Z,18.0,api
+FCD1866,1143,Ring DVD,0.0,2019-03-18T00:00:00Z,12.0,api
+TWFBD044,1149,Top Knot Detective Dual Format,0.0,2019-03-18T00:00:00Z,18.0,api
+FCD1863,1140,Kolobos Blu-ray,0.0,2019-03-11T00:00:00Z,18.0,api
+FCD1862,1137,The Prisoner Blu-ray,0.0,2019-03-11T00:00:00Z,18.0,api
+FCD1861,1138,Phantom Lady Blu-ray,0.0,2019-03-04T00:00:00Z,18.0,api
+FCD1864,1139,Sister Street Fighter Blu-ray,0.0,2019-03-04T00:00:00Z,25.0,api
+BHB017,1395,Dracula's Fiancée Blu-ray,0.0,2019-02-25T00:00:00Z,10.0,api
+FCD1853,1096,Color Me Blood Red Blu-Ray,0.0,2019-02-18T00:00:00Z,15.0,api
+SECONDRUNBD019,1261,Dawson City: Frozen Time Blu-ray,0.0,2019-02-18T00:00:00Z,18.0,api
+SECONDRUN125,1453,Dawson City: Frozen Time DVD,0.0,2019-02-18T00:00:00Z,12.0,api
+FCD1817,1099,My Name Is Julia Ross Blu-ray,0.0,2019-02-18T00:00:00Z,18.0,api
+FCD1833,1100,So Dark The Night Blu-Ray,0.0,2019-02-18T00:00:00Z,18.0,api
+FCD1829,1105,Before We Vanish Blu-ray,0.0,2019-02-11T00:00:00Z,18.0,api
+FCD1846,1095,Climax  DVD,0.0,2019-02-11T00:00:00Z,12.0,api
+FCD1845,1094,Climax Blu-Ray,0.0,2019-02-11T00:00:00Z,18.0,api
+FCD1834,1108,Horror Express Blu-Ray,0.0,2019-02-11T00:00:00Z,18.0,api
+FCD1851,1107,The Fifth Cord Blu-Ray,0.0,2019-02-04T00:00:00Z,18.0,api
+FCD1850,1106,The Possessed Blu-Ray,0.0,2019-02-04T00:00:00Z,18.0,api
+5027035018720,1160,Autopsy - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+5027035017440,1156,Caltiki - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+5027035018706,1159,Death Smiles on a Murderer - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+5027035017754,1158,Death Walks on High Heels - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+5027035017730,1157,Erik the Conqueror - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+AR009,1153,Pensione Paura - Red Vinyl,0.0,2019-02-01T00:00:00Z,25.0,api
+5027035017020,1154,Pieces - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+5027035017396,1155,Zero Boys - Black Vinyl,0.0,2019-02-01T00:00:00Z,15.0,api
+FCD1849,1092,Dave Made a Maze Blu- Ray,0.0,2019-01-28T00:00:00Z,18.0,api
+TWFBD043,1101,One Cut of the Dead Blu-Ray,0.0,2019-01-28T00:00:00Z,15.0,api
+TWF070,1103,One Cut of the Dead DVD,0.0,2019-01-28T00:00:00Z,10.0,api
+FCD1848,1090,Born Yesterday Blu-ray,0.0,2019-01-21T00:00:00Z,18.0,api
+SECONDRUNBD018,1260,Diamonds of the Night Blu-ray,0.0,2019-01-21T00:00:00Z,18.0,api
+FCD1838,1093,The Forbidden Photos of a Lady Above Suspicion Blu-Ray,0.0,2019-01-14T00:00:00Z,18.0,api
+FCD1854,1150,Mary Queen of Scots DVD,0.0,2019-01-07T00:00:00Z,7.0,api
+FCD1839,1069,Bob & Carol & Ted & Alice Blu-ray,0.0,2018-12-10T00:00:00Z,18.0,api
+FCD1836,1086,Elvira: Mistress of the Dark Blu-Ray,0.0,2018-12-10T00:00:00Z,18.0,api
+FCD1828,1064,Texas Adios Blu-Ray,0.0,2018-12-10T00:00:00Z,18.0,api
+FCD1843,1068,The Serpent's Egg Blu-ray,0.0,2018-12-03T00:00:00Z,18.0,api
+FCD1825,1059,Gosford Park Blu-Ray,0.0,2018-11-26T00:00:00Z,18.0,api
+FCD1844,1091,The Apartment Blu-Ray,0.0,2018-11-26T00:00:00Z,15.0,api
+SECONDRUNBD017,1259,Invention for Destruction Blu-ray,0.0,2018-11-19T00:00:00Z,18.0,api
+SECONDRUN124,1241,Invention for Destruction DVD,0.0,2018-11-19T00:00:00Z,12.0,api
+FCD1822,1066,Orgies of Edo Blu-Ray,0.0,2018-11-19T00:00:00Z,18.0,api
+TWFBD041,1104,DANGAN RUNNER Dual Format,0.0,2018-11-12T00:00:00Z,15.0,api
+FCD1824,1060,Gas Food Lodging Blu-Ray,0.0,2018-11-12T00:00:00Z,18.0,api
+FCD1735,1002,Ismael's Ghosts Blu-ray,0.0,2018-09-24T00:00:00Z,15.0,api
+FCD1763,1009,The Baby Blu-ray,0.0,2018-09-24T00:00:00Z,18.0,api
+FCD1788,1007,Horrors of Malformed Men Blu-ray,0.0,2018-09-17T00:00:00Z,18.0,api
+FCD1790,1008,The Pyjama Girl Case Blu-ray,0.0,2018-09-17T00:00:00Z,18.0,api
+FCD1786,1006,Heathers Blu-ray,0.0,2018-09-10T00:00:00Z,15.0,api
+FCD1787,1005,Heathers DVD,0.0,2018-09-10T00:00:00Z,12.0,api
+FCD1803,1000,Bloody Spear at Mount Fuji Blu-ray,0.0,2018-09-03T00:00:00Z,18.0,api
+FCD1792,1011,Incident in a Ghostland Blu-ray,0.0,2018-09-03T00:00:00Z,15.0,api
+FCD1793,1010,Incident in a Ghostland DVD,0.0,2018-09-03T00:00:00Z,12.0,api
+5027035019802,1028,The Etruscan Kills Again Vinyl (Translucent Orange),0.0,2018-08-31T00:00:00Z,25.0,api
+FCD1785,933,Mohsen Makhmalbaf: The Poetic Trilogy Blu-ray,0.0,2018-08-27T00:00:00Z,25.0,api
+FCD1798,1019,Narcos Season 3 Blu-ray,0.0,2018-08-27T00:00:00Z,17.0,api
+FCD1797,1018,Narcos Season 3 DVD,0.0,2018-08-27T00:00:00Z,15.0,api
+FCD1800,1022,"Narcos Seasons 1,2 & 3 Blu-ray",0.0,2018-08-27T00:00:00Z,40.0,api
+FCD1799,1023,"Narcos Seasons 1,2 & 3 DVD",0.0,2018-08-27T00:00:00Z,35.0,api
+FCD1783,932,A Gentle Creature Blu-ray,0.0,2018-08-20T00:00:00Z,15.0,api
+FCD1791,988,Apprentice to Murder Blu-ray,0.0,2018-08-20T00:00:00Z,18.0,api
+SECONDRUNBD014,1256,The Miraculous Virgin Blu-ray,0.0,2018-08-20T00:00:00Z,18.0,api
+FCD1802,930,The Gore Gore Girls Blu-ray,0.0,2018-08-13T00:00:00Z,15.0,api
+FCD1782,990,Tideland Blu-ray,0.0,2018-08-13T00:00:00Z,18.0,api
+FCD1739,989,Street Mobster Blu-ray,0.0,2018-08-06T00:00:00Z,18.0,api
+FCD1796,1021,Terminal DVD,0.0,2018-08-06T00:00:00Z,12.0,api
+AB008,1004,Philip K. Dick on Film (Arrow Books),0.0,2018-07-27T00:00:00Z,15.0,api
+TWFBD039,967,Suffering of Ninko Dual Format,0.0,2018-07-23T00:00:00Z,18.0,api
+FCD1774,913,The Human Condition Trilogy Blu-ray,0.0,2018-07-23T00:00:00Z,25.0,api
+FCD1780,926,The Navigator: A Medieval Odyssey Blu-ray,0.0,2018-07-23T00:00:00Z,18.0,api
+FCD1777,920,The Third Murder Blu-ray,0.0,2018-07-23T00:00:00Z,15.0,api
+FCD1776,919,The Third Murder DVD,0.0,2018-07-23T00:00:00Z,12.0,api
+FCD1772,1026,Arrow Video Enamel Pin Badge,0.0,2018-07-19T00:00:00Z,8.0,api
+FCD1771,928,Doom Asylum Blu-ray,0.0,2018-07-16T00:00:00Z,18.0,api
+FCD1760,927,The Case of the Scorpion's Tail Blu-ray,0.0,2018-07-16T00:00:00Z,18.0,api
+FCD1752,911,The Long Good Friday Blu-ray,0.0,2018-07-16T00:00:00Z,15.0,api
+FCD1778,918,"Woman is the Future of Man, Tale of Cinema: Two Films by Hong Sangsoo Blu-ray",0.0,2018-07-16T00:00:00Z,18.0,api
+SECONDRUNBD013,1255,Black Peter Blu-ray,0.0,2018-07-09T00:00:00Z,18.0,api
+FCD1779,925,Detective Bureau 2-3 Go to Hell Bastards! Blu-ray,0.0,2018-07-09T00:00:00Z,18.0,api
+FCD1759,924,The Boondock Saints Blu-ray,0.0,2018-07-09T00:00:00Z,18.0,api
+FCD1733,883,Smash Palace Blu-ray,0.0,2018-05-28T00:00:00Z,18.0,api
+AB007,921,The Man Who Fell To Earth (Arrow Books),0.0,2018-05-25T00:00:00Z,15.0,api
+FCD1734,884,Black Venus Blu-ray,0.0,2018-05-21T00:00:00Z,18.0,api
+FCD1732,889,Death Smiles on a Murderer Blu-ray,0.0,2018-05-21T00:00:00Z,18.0,api
+FCD1751,891,Rawhead Rex Blu-ray,0.0,2018-05-14T00:00:00Z,18.0,api
+FCD1756,888,The Bloodthirsty Trilogy Blu-ray,0.0,2018-05-14T00:00:00Z,25.0,api
+FCD1741,880,Two Thousand Maniacs! Blu-ray,0.0,2018-05-14T00:00:00Z,15.0,api
+FCD1755,887,Dark Blue Blu-ray,0.0,2018-05-07T00:00:00Z,15.0,api
+SECONDRUNBD012,1254,Intimate Lighting Blu-ray,0.0,2018-05-07T00:00:00Z,18.0,api
+FCD1737,882,Irma Vep Blu-ray,0.0,2018-05-07T00:00:00Z,18.0,api
+FCD1743,879,Pieces Blu-ray,0.0,2018-05-07T00:00:00Z,15.0,api
+TWFBD037,935,Antiporno Dual Format,0.0,2018-04-30T00:00:00Z,18.0,api
+FCD1804,1014,Nordic Noir Classics Borgen Trilogy DVD,0.0,2018-07-02T00:00:00Z,25.0,api
+FCD1805,1015,Nordic Noir Classics The Killing Trilogy DVD,0.0,2018-07-02T00:00:00Z,25.0,api
+FCD1806,1016,Nordic Noir Classics The Legacy Trilogy DVD,0.0,2018-07-02T00:00:00Z,25.0,api
+FCD1807,1017,Nordic Noir Classics Wallander (Episodes 1-13),0.0,2018-07-02T00:00:00Z,25.0,api
+FCD1730,908,The Bridge Season 4 Blu-ray,0.0,2018-07-02T00:00:00Z,18.0,api
+FCD1729,907,The Bridge Season 4 DVD,0.0,2018-07-02T00:00:00Z,15.0,api
+FCD1745,1013,The Bridge: Complete Seasons 1-4 Blu-ray,0.0,2018-07-02T00:00:00Z,40.0,api
+FCD1744,1012,The Bridge: Complete Seasons 1-4 DVD,0.0,2018-07-02T00:00:00Z,35.0,api
+FCD1775,910,The Cat O' Nine Tails Blu-ray,0.0,2018-07-02T00:00:00Z,15.0,api
+FCD1754,922,The Endless DVD,0.0,2018-07-02T00:00:00Z,12.0,api
+FCD1750,897,Dark River Blu-ray,0.0,2018-06-25T00:00:00Z,15.0,api
+FCD1749,898,Dark River DVD,0.0,2018-06-25T00:00:00Z,12.0,api
+FCD1718,873,La Chinoise Blu-ray,0.0,2018-04-23T00:00:00Z,18.0,api
+FCD1686,868,Carrie Blu-ray,0.0,2018-04-16T00:00:00Z,15.0,api
+SECONDRUNBD011,1253,Neon Bull Blu-ray,0.0,2018-04-16T00:00:00Z,18.0,api
+FCD1719,872,Sleeping Dogs Blu-ray,0.0,2018-04-16T00:00:00Z,18.0,api
+TWFBD036,975,Whispering Star / The Sion Sono Dual Format,0.0,2018-04-16T00:00:00Z,18.0,api
+FCD1716,869,Shock Treatment Blu-ray,0.0,2018-04-09T00:00:00Z,15.0,api
+FCD1722,823,Blade of the Immortal Blu-ray,0.0,2018-04-02T00:00:00Z,15.0,api
+FCD1723,878,Blade of the Immortal DVD,0.0,2018-04-02T00:00:00Z,12.0,api
+AB006,856,All the Colours of Sergio Martino (Arrow Books),0.0,2018-03-30T00:00:00Z,15.0,api
+FCD1710,863,A Pistol for Ringo & The Return of Ringo: Two Films by Duccio Tessari,0.0,2018-03-26T00:00:00Z,18.0,api
+FCD1714,886,Blood and Black Lace Blu-ray,0.0,2018-03-26T00:00:00Z,15.0,api
+TWFBD035,961,Love and Other Cults Dual Format,0.0,2018-03-26T00:00:00Z,15.0,api
+FCD1622,620,Sacha Guitry: Four Films 1936-1938 Dual Format,0.0,2018-03-26T00:00:00Z,40.0,api
+FCD1709,855,Images Blu-ray,0.0,2018-03-19T00:00:00Z,18.0,api
+FCD1713,864,Flowers in the Attic Blu-ray,0.0,2018-03-12T00:00:00Z,18.0,api
+FCD1728,901,"Gomorrah The Series: Complete Seasons 1, 2 & 3 Blu-ray",0.0,2018-03-12T00:00:00Z,30.0,api
+FCD1727,902,"Gomorrah The Series: Complete Seasons 1, 2 & 3 DVD",0.0,2018-03-12T00:00:00Z,25.0,api
+FCD1726,900,Gomorrah The Series: Season 3 Blu-ray,0.0,2018-03-12T00:00:00Z,18.0,api
+FCD1725,899,Gomorrah The Series: Season 3 DVD,0.0,2018-03-12T00:00:00Z,15.0,api
+FCD1707,860,Season of the Witch Blu-ray,0.0,2018-03-12T00:00:00Z,15.0,api
+FCD1706,859,The Crazies Blu-ray,0.0,2018-03-12T00:00:00Z,15.0,api
+FCD1708,861,There's Always Vanilla Blu-ray,0.0,2018-03-12T00:00:00Z,15.0,api
+FCD1712,858,Raising Cain Blu-ray,0.0,2018-03-05T00:00:00Z,15.0,api
+FCD1705,854,Ramrod Blu-ray,0.0,2018-03-05T00:00:00Z,15.0,api
+AR006,945,Death Smiles on a Murderer Double Vinyl (Gold),0.0,2018-06-25T00:00:00Z,25.0,api
+FCD1766,893,Secret Beyond the Door Blu-ray,0.0,2018-06-25T00:00:00Z,15.0,api
+FCD1768,894,The Big Combo Blu-ray,0.0,2018-06-25T00:00:00Z,15.0,api
+TWFBD038,936,Animerama: 1001 Nights / Cleopatra Blu-ray,0.0,2018-06-18T00:00:00Z,30.0,api
+TWF069,937,Animerama: 1001 Nights / Cleopatra DVD,0.0,2018-06-18T00:00:00Z,15.0,api
+FCD1764,909,The Quiet Earth Blu-ray,0.0,2018-06-18T00:00:00Z,18.0,api
+FCD1767,895,Force of Evil Blu-ray,0.0,2018-06-11T00:00:00Z,15.0,api
+FCD1795,991,Salamander Season 2 DVD,0.0,2018-06-11T00:00:00Z,15.0,api
+TWFBD040,1003,Tetsuo: The Iron Man / Tetsuo 2: Body Hammer Blu-ray (1 Disc Version),0.0,2018-06-11T00:00:00Z,15.0,api
+FCD1765,892,The Dark Mirror Blu-ray,0.0,2018-06-11T00:00:00Z,15.0,api
+FCD1761,903,Vigil Blu-ray,0.0,2018-06-11T00:00:00Z,18.0,api
+FCD1742,906,Jake Speed Blu-ray,0.0,2018-06-04T00:00:00Z,18.0,api
+FCD1511,625,"Jean-Luc Godard + Jean-Pierre Gorin: Five Films, 1968-1971 Dual Format",0.0,2018-02-26T00:00:00Z,50.0,api
+SECONDRUNBD010,1252,Silence and Cry Blu-ray,0.0,2018-02-26T00:00:00Z,18.0,api
+SECONDRUN120,1507,Silence and Cry DVD,0.0,2018-02-26T00:00:00Z,12.0,api
+AB004,870,The Blair Witch Project (Arrow Books),0.0,2018-02-23T00:00:00Z,15.0,api
+AB005,841,The Hitcher (Arrow Books),0.0,2018-02-23T00:00:00Z,15.0,api
+FCD1692,846,Magnificent Doll Blu-ray,0.0,2018-02-19T00:00:00Z,15.0,api
+FCD1696,849,Scalpel Blu-ray,0.0,2018-02-19T00:00:00Z,15.0,api
+FCD1684,847,A Woman's Life Blu-ray,0.0,2018-02-12T00:00:00Z,15.0,api
+FCD1676,845,Orchestra Rehearsal Blu-ray,0.0,2018-02-12T00:00:00Z,15.0,api
+FCD1697,850,The Bird with the Crystal Plumage Blu-ray,0.0,2018-02-12T00:00:00Z,15.0,api
+FCD1674,844,Henri-Georges Clouzot's inferno Blu-ray,0.0,2018-02-05T00:00:00Z,15.0,api
+FCD1693,848,The Gruesome Twosome Blu-ray,0.0,2018-02-05T00:00:00Z,15.0,api
+FCD1653,865,Witnesses: The Complete Series,0.0,2018-01-15T00:00:00Z,23.0,api
+FCD1668,832,The Witches Blu-ray,0.0,2018-01-08T00:00:00Z,15.0,api
+AR003,842,"Caltiki, The Immortal Monster Vinyl (Translucent Green)",0.0,2017-12-29T00:00:00Z,25.0,api
+FCD1655,312,House Blu-ray,0.0,2017-12-11T00:00:00Z,15.0,api
+FCD1656,311,House DVD,0.0,2017-12-11T00:00:00Z,12.0,api
+FCD1657,310,House II: The Second Story Blu-ray,0.0,2017-12-11T00:00:00Z,15.0,api
+FCD1659,308,House III: The Horror Show Blu-ray,0.0,2017-12-11T00:00:00Z,15.0,api
+FCD1660,307,House III: The Horror Show DVD,0.0,2017-12-11T00:00:00Z,12.0,api
+FCD1661,306,House IV: The Reposession Blu-ray,0.0,2017-12-11T00:00:00Z,15.0,api
+FCD1629,224,Pulp Blu-ray,0.0,2017-12-11T00:00:00Z,15.0,api
+FCD1630,223,Pulp DVD,0.0,2017-12-11T00:00:00Z,12.0,api
+SECONDRUNBD009,1251,The Cremator Blu-ray,0.0,2017-12-11T00:00:00Z,18.0,api
+FCD1685,1193,A Woman's Life DVD,0.0,2018-02-01T00:00:00Z,7.0,api
+FCD1596,619,After The Storm Blu-ray,0.0,2018-01-29T00:00:00Z,15.0,api
+FCD1597,621,After The Storm DVD,0.0,2018-01-29T00:00:00Z,12.0,api
+FCD1609,827,Hounds of Love Blu-ray,0.0,2018-01-29T00:00:00Z,15.0,api
+FCD1637,837,Viva l’Italia Blu-ray,0.0,2018-01-29T00:00:00Z,15.0,api
+FCD1638,838,Viva l’Italia DVD,0.0,2018-01-29T00:00:00Z,12.0,api
+9AR004,857,Erik the Conqueror Double Vinyl (Translucent Yellow),0.0,2018-01-26T00:00:00Z,25.0,api
+FCD1670,834,The Mystery of Picasso Blu-ray,0.0,2018-01-22T00:00:00Z,15.0,api
+FCD1671,835,The Mystery of Picasso DVD,0.0,2018-01-22T00:00:00Z,12.0,api
+FCD1667,826,Phenomena Blu-ray,0.0,2018-01-15T00:00:00Z,15.0,api
+FCD1652,867,Witnesses Season 2 Blu-ray,0.0,2018-01-15T00:00:00Z,17.0,api
+FCD1651,866,Witnesses Season 2 DVD,0.0,2018-01-15T00:00:00Z,15.0,api
+FCD1601,553,The Voice of the Moon Dual Format,0.0,2017-10-30T00:00:00Z,18.0,api
+FCD1599,531,Zoology Blu-ray,0.0,2017-10-30T00:00:00Z,15.0,api
+FCD1600,532,Zoology DVD,0.0,2017-10-30T00:00:00Z,12.0,api
+FCD1227,587,Hellraiser Trilogy Box Set DVD,0.0,2017-10-23T00:00:00Z,15.0,api
+FCD1595,563,Le Plaisir Dual Format,0.0,2017-10-23T00:00:00Z,18.0,api
+TWFBD033,949,Getting Any? Blu-ray,0.0,2017-10-16T00:00:00Z,15.0,api
+FCD1602,248,Miracle Mile Dual Format,0.0,2017-10-16T00:00:00Z,18.0,api
+FCD1589,202,Blood Feast Dual Format,0.0,2017-10-09T00:00:00Z,18.0,api
+FCD1505,558,The Untamed Blu-ray,0.0,2017-10-09T00:00:00Z,15.0,api
+SECONDRUNBD007,1249,Vampir Cuadecuc Blu-ray,0.0,2017-10-09T00:00:00Z,18.0,api
+SECONDRUN118,1239,Vampir Cuadecuc DVD,0.0,2017-10-09T00:00:00Z,12.0,api
+FCD1525,377,Zombie Flesh Eaters Blu-ray,0.0,2017-10-02T00:00:00Z,15.0,api
+FCD1639,623,Amour Fou Blu-ray,0.0,2017-12-04T00:00:00Z,15.0,api
+FCD1664,607,Lost in Paris Blu-ray,0.0,2017-12-04T00:00:00Z,15.0,api
+FCD1654,605,Lost in Paris DVD,0.0,2017-12-04T00:00:00Z,12.0,api
+FCD1644,346,Malatesta's Carnival of Blood Blu-ray,0.0,2017-12-04T00:00:00Z,15.0,api
+FCD1646,348,The Premonition Blu-ray,0.0,2017-12-04T00:00:00Z,15.0,api
+FCD1642,351,The Witch Who Came From the Sea Blu-ray,0.0,2017-12-04T00:00:00Z,15.0,api
+FCD1665,831,I Know Who You Are Season 1 & 2 DVD,0.0,2017-11-27T00:00:00Z,23.0,api
+FCD1625,571,Montparnasse 19 Blu-ray,0.0,2017-11-27T00:00:00Z,15.0,api
+AR002,824,The Zero Boys Vinyl (Translucent Blue),0.0,2017-11-24T00:00:00Z,25.0,api
+FCD1631,124,Animal Factory Blu-ray,0.0,2017-11-20T00:00:00Z,15.0,api
+FCD1632,125,Animal Factory DVD,0.0,2017-11-20T00:00:00Z,12.0,api
+FCD1616,350,The Thing Blu-ray,0.0,2017-11-20T00:00:00Z,15.0,api
+FCD1580,822,Eaten Alive Blu-ray,0.0,2017-11-13T00:00:00Z,15.0,api
+FCD1579,828,Eaten Alive DVD,0.0,2017-11-13T00:00:00Z,7.0,api
+FCD1628,120,The Incredible Shrinking Man Blu-ray,0.0,2017-11-13T00:00:00Z,15.0,api
+SECONDRUNBD008,1250,Witchhammer Blu-ray,0.0,2017-11-13T00:00:00Z,18.0,api
+SECONDRUN119,1240,Witchhammer DVD,0.0,2017-11-13T00:00:00Z,12.0,api
+FCD1560,641,Departures Blu-ray,0.0,2017-11-06T00:00:00Z,15.0,api
+FCD1559,642,Departures DVD,0.0,2017-11-06T00:00:00Z,12.0,api
+FCD1555,398,Whisky Galore Blu-ray,0.0,2017-11-06T00:00:00Z,10.0,api
+FCD1554,401,Whisky Galore DVD,0.0,2017-11-06T00:00:00Z,7.0,api
+FCD1594,277,JD's Revenge Dual Format,0.0,2017-10-30T00:00:00Z,18.0,api
+FCD1588,51,The Villainess Blu-ray,0.0,2017-10-30T00:00:00Z,15.0,api
+FCD1587,60,The Villainess DVD,0.0,2017-10-30T00:00:00Z,12.0,api
+FCD1571,149,The Day Of The Jackal Blu-ray,0.0,2017-09-04T00:00:00Z,15.0,api
+FCD1568,142,The Ghoul Blu-ray,0.0,2017-09-04T00:00:00Z,15.0,api
+FCD1401,34,Donnie Darko DVD,0.0,2017-09-01T00:00:00Z,12.0,api
+FCD1550,335,Erik The Conqueror Dual Format,0.0,2017-08-28T00:00:00Z,18.0,api
+FCD1479,138,The Happiness of the Katakuris Blu-ray,0.0,2017-08-28T00:00:00Z,15.0,api
+FCD1551,566,The Tree Of Wooden Clogs Dual Format,0.0,2017-08-28T00:00:00Z,18.0,api
+FCD1535,541,Tout Va Bien Dual Format,0.0,2017-08-28T00:00:00Z,18.0,api
+FCD1477,298,Day of Anger Blu-ray,0.0,2017-08-21T00:00:00Z,15.0,api
+FCD1561,608,The Love of A Woman Dual Format,0.0,2017-08-21T00:00:00Z,18.0,api
+FCD1549,101,The Slayer Dual Format,0.0,2017-08-21T00:00:00Z,18.0,api
+FCD1494,96,The Texas Chainsaw Massacre 2 Blu-ray,0.0,2017-08-21T00:00:00Z,15.0,api
+FCD1543,637,Clash Blu-ray,0.0,2017-08-14T00:00:00Z,15.0,api
+FCD1583,63,Zombie Flesh Eaters DVD,0.0,2017-10-02T00:00:00Z,7.0,api
+FCD1548,341,Don't Torture A Duckling Dual Format,0.0,2017-09-25T00:00:00Z,18.0,api
+FCD1537,615,Eight Hours Don't Make A Day Dual Format,0.0,2017-09-25T00:00:00Z,50.0,api
+FCD1552,612,The Legend Of The Holy Drinker Dual Format,0.0,2017-09-25T00:00:00Z,18.0,api
+FCD1572,98,The Suspicious Death Of A Minor Dual Format,0.0,2017-09-25T00:00:00Z,18.0,api
+FCD1490,334,Deranged Blu-ray,0.0,2017-09-18T00:00:00Z,15.0,api
+TWFBD032,946,Fires on the Plain Dual Format,0.0,2017-09-11T00:00:00Z,18.0,api
+AB003,556,Ghost in the Shell (Arrow Books),0.0,2017-09-11T00:00:00Z,15.0,api
+FCD1495,100,The Stuff Blu-ray,0.0,2017-09-11T00:00:00Z,15.0,api
+FCD1488,388,Deadly Blessing Blu-ray,0.0,2017-09-04T00:00:00Z,15.0,api
+FCD1393,697,Narcos Season 2 Blu-ray,0.0,2017-09-04T00:00:00Z,17.0,api
+FCD1392,696,Narcos Season 2 DVD,0.0,2017-09-04T00:00:00Z,15.0,api
+FCD1475,256,Massacre Gun Blu-ray,0.0,2017-08-14T00:00:00Z,15.0,api
+FCD1485,182,Society Blu-ray,0.0,2017-08-07T00:00:00Z,15.0,api
+FCD1558,648,The Hunt Blu-ray,0.0,2017-08-07T00:00:00Z,15.0,api
+FCD1557,658,The Hunt DVD,0.0,2017-08-07T00:00:00Z,7.0,api
+FCD1244,134,Audition DVD,0.0,2017-07-31T00:00:00Z,7.0,api
+FCD1540,322,Future Shock! The Story Of 2000AD Blu-ray,0.0,2017-07-31T00:00:00Z,15.0,api
+FCD1539,324,Future Shock! The Story Of 2000AD DVD,0.0,2017-07-31T00:00:00Z,12.0,api
+FCD1538,451,Psycho 2 Blu-ray,0.0,2017-07-31T00:00:00Z,15.0,api
+FCD1430,131,The Hills Have Eyes Blu-ray,0.0,2017-07-31T00:00:00Z,15.0,api
+FCD1472,175,Tenebrae Blu-ray,0.0,2017-07-24T00:00:00Z,15.0,api
+SECONDRUNBD006,1248,The Fabulous Baron Munchausen Blu-ray,0.0,2017-07-24T00:00:00Z,18.0,api
+SECONDRUN117,1238,The Fabulous Baron Munchausen DVD,0.0,2017-07-24T00:00:00Z,12.0,api
+FCD1503,627,Aquarius Blu-ray,0.0,2017-07-17T00:00:00Z,15.0,api
+FCD1502,626,Aquarius DVD,0.0,2017-07-17T00:00:00Z,12.0,api
+FCD1553,757,Public Enemy Season 1 DVD,0.0,2017-07-17T00:00:00Z,12.0,api
+FCD1396,226,Pulse Dual Format,0.0,2017-07-17T00:00:00Z,18.0,api
+FCD1249,171,Battle Royale Director's Cut Blu-ray,0.0,2017-07-10T00:00:00Z,15.0,api
+FCD1566,672,Dunkirk DVD,0.0,2017-07-10T00:00:00Z,12.0,api
+FCD1534,245,Nekromantik 2 Dual Format,0.0,2017-07-03T00:00:00Z,18.0,api
+FCD1471,597,Rififi DVD,0.0,2017-07-03T00:00:00Z,7.0,api
+FCD1521,340,Doberman Cop Dual Format,0.0,2017-06-26T00:00:00Z,18.0,api
+FCD1239,128,The House by the Cemetery Blu-ray,0.0,2017-06-26T00:00:00Z,15.0,api
+FCD1483,261,Madman Blu-ray,0.0,2017-07-10T00:00:00Z,15.0,api
+FCD1515,180,Stormy Monday Dual Format,0.0,2017-07-10T00:00:00Z,18.0,api
+FCD1453,581,The Sorrow and the Pity Blu-ray,0.0,2017-06-26T00:00:00Z,15.0,api
+FCD1487,254,Bride of Re-animator DVD,0.0,2017-07-03T00:00:00Z,7.0,api
+FCD1481,289,Contamination Blu-ray,0.0,2017-07-03T00:00:00Z,15.0,api
+FCD1523,580,The Sorrow and the Pity DVD,0.0,2017-06-26T00:00:00Z,12.0,api
+FCD1517,263,Madhouse Dual Format,0.0,2017-06-12T00:00:00Z,18.0,api
+FCD1522,50,One-Eyed Jacks Dual Format,0.0,2017-06-12T00:00:00Z,18.0,api
+FCD1255,48,Hellraiser Blu-ray,0.0,2017-07-03T00:00:00Z,15.0,api
+FCD1526,314,Hellraiser DVD,0.0,2017-07-03T00:00:00Z,7.0,api
+FCD1444,235,All Ladies Do It Blu-Ray,0.0,2017-06-05T00:00:00Z,15.0,api
+FCD1445,294,All Ladies Do It DVD,0.0,2017-06-05T00:00:00Z,7.0,api
+FCD1448,279,Cheeky Blu-ray,0.0,2017-06-05T00:00:00Z,15.0,api
+FCD1449,538,Cheeky DVD,0.0,2017-06-05T00:00:00Z,7.0,api
+FCD1446,325,Frivolous Lola Blu-ray,0.0,2017-06-05T00:00:00Z,15.0,api
+FCD1447,540,Frivolous Lola DVD,0.0,2017-06-05T00:00:00Z,7.0,api
+FCD1415,454,Headshot Blu-ray,0.0,2017-06-05T00:00:00Z,10.0,api
+FCD1414,453,Headshot DVD,0.0,2017-06-05T00:00:00Z,7.0,api
+FCD1450,273,Klown Blu-ray,0.0,2017-06-05T00:00:00Z,15.0,api
+FCD1524,272,Klown DVD,0.0,2017-06-05T00:00:00Z,12.0,api
+FCD1499,731,Hinterland Season 3 DVD,0.0,2017-05-29T00:00:00Z,12.0,api
+FCD1501,736,Hinterland Trilogy DVD,0.0,2017-05-29T00:00:00Z,25.0,api
+FCD1513,586,Spotlight on a Murderer Dual Format,0.0,2017-05-29T00:00:00Z,18.0,api
+FCD1528,804,The Legacy Season 3 Blu-ray,0.0,2017-05-29T00:00:00Z,14.0,api
+FCD1527,793,The Legacy Season 3 DVD,0.0,2017-05-29T00:00:00Z,12.0,api
+FCD1530,806,The Legacy Trilogy Blu-ray,0.0,2017-05-29T00:00:00Z,35.0,api
+FCD1512,292,Cops Vs Thugs Dual Format,0.0,2017-05-22T00:00:00Z,18.0,api
+SECONDRUN116,1316,"Taşkafa: Stories of the Street / Estate, a Reverie  Two films by Andrea Luka Zimmerman DVD",0.0,2017-05-15T00:00:00Z,12.0,api
+FCD1509,153,The Climber Dual Format,0.0,2017-05-15T00:00:00Z,18.0,api
+FCD1346,693,Hostages Season 2 DVD,0.0,2017-05-08T00:00:00Z,12.0,api
+FCD1506,574,My Life as a Dog Dual Format,0.0,2017-05-08T00:00:00Z,18.0,api
+FCD1463,268,Catfight Blu-ray,0.0,2017-04-24T00:00:00Z,15.0,api
+FCD1459,347,The City of the Dead Dual Format,0.0,2017-04-24T00:00:00Z,18.0,api
+FCD1458,68,Wolf Guy Dual Format,0.0,2017-04-22T00:00:00Z,18.0,api
+FCD1421,763,The Bureau Season 2 DVD,0.0,2017-04-17T00:00:00Z,12.0,api
+FCD1454,110,The Night Evelyn Came Out Of The Grave Blu-ray,0.0,2017-04-17T00:00:00Z,15.0,api
+FCD1455,104,The Red Queen Kills Seven Times Blu-ray,0.0,2017-04-17T00:00:00Z,15.0,api
+FCD1457,103,The Red Queen Kills Seven Times DVD,0.0,2017-04-17T00:00:00Z,12.0,api
+FCD1452,264,Caltiki: The Immortal Monster Dual Format,0.0,2017-04-10T00:00:00Z,18.0,api
+TWFBD031,943,Destruction Babies Blu-ray,0.0,2017-04-10T00:00:00Z,15.0,api
+TWF068,942,Destruction Babies DVD,0.0,2017-04-10T00:00:00Z,10.0,api
+FCD1498,771,Follow the Money Season 2 DVD,0.0,2017-04-10T00:00:00Z,12.0,api
+FCD1296,544,Alice Blu-ray,0.0,2017-04-03T00:00:00Z,15.0,api
+FCD1297,591,Shadows and Fog Blu-ray,0.0,2017-04-03T00:00:00Z,15.0,api
+FCD1433,386,Dead or Alive Blu-ray,0.0,2017-03-27T00:00:00Z,25.0,api
+FCD1434,387,Dead or Alive Trilogy DVD,0.0,2017-03-27T00:00:00Z,15.0,api
+FCD1218,38,Death Walks at Midnight Blu-ray,0.0,2017-03-27T00:00:00Z,15.0,api
+FCD1217,303,Death Walks On High Heels Blu-ray,0.0,2017-03-27T00:00:00Z,15.0,api
+SECONDRUNBD005,1247,My 20th Century Blu-ray,0.0,2017-03-20T00:00:00Z,18.0,api
+FCD1432,576,Property Is No Longer A Theft Dual Format,0.0,2017-03-20T00:00:00Z,18.0,api
+FCD1427,36,Runaway Train Blu-ray,0.0,2017-01-30T00:00:00Z,15.0,api
+FCD1407,204,Blood Rage Dual Format,0.0,2017-01-23T00:00:00Z,18.0,api
+FCD1405,158,The Black Society Trilogy Blu-ray,0.0,2017-01-16T00:00:00Z,25.0,api
+FCD1420,761,The Bureau Season 1 DVD,0.0,2017-01-16T00:00:00Z,12.0,api
+FCD1289,40,Broadway Danny Rose Blu-ray,0.0,2017-01-09T00:00:00Z,15.0,api
+FCD1403,54,Donnie Darko 2-Disc Blu-ray,0.0,2017-01-09T00:00:00Z,18.0,api
+FCD1429,344,Donnie Darko Theatrical Cut Blu-ray,0.0,2017-01-09T00:00:00Z,15.0,api
+FCD1290,39,The Purple Rose of Cairo Blu-ray,0.0,2017-01-09T00:00:00Z,15.0,api
+FCD1232,164,The Beast Within Blu-ray,0.0,2017-01-06T00:00:00Z,15.0,api
+FCD880,1112,Battle Royale DVD,0.0,2017-01-01T00:00:00Z,7.0,api
+TWFBD030,974,Toshiaki Toyoda: The Early Years Ltd Ed Blu-ray,0.0,2016-12-26T00:00:00Z,25.0,api
+FCD1389,318,Hell Comes to Frogtown Blu-ray,0.0,2016-12-19T00:00:00Z,15.0,api
+FCD1425,795,Modus Blu-ray,0.0,2016-12-19T00:00:00Z,14.0,api
+FCD1312,777,Modus DVD,0.0,2016-12-19T00:00:00Z,12.0,api
+FCD1409,673,SAS: Who Dares Wins Season 2 DVD,0.0,2016-12-19T00:00:00Z,12.0,api
+FCD1387,155,The Burning Dual Format,0.0,2016-12-19T00:00:00Z,18.0,api
+FCD1402,140,The Guyver Dual Format,0.0,2016-12-19T00:00:00Z,18.0,api
+FCD1287,543,A Midsummer Night's Sex Comedy Blu-ray,0.0,2016-12-12T00:00:00Z,15.0,api
+FCD1419,718,Braquo Season 4 Blu-ray,0.0,2016-12-12T00:00:00Z,14.0,api
+FCD1314,717,Braquo Season 4 DVD,0.0,2016-12-12T00:00:00Z,12.0,api
+FCD1411,517,Magnus DVD,0.0,2016-12-12T00:00:00Z,7.0,api
+FCD1286,585,Stardust Memories Blu-ray,0.0,2016-12-12T00:00:00Z,15.0,api
+FCD1288,533,Zelig Blu-ray,0.0,2016-12-12T00:00:00Z,15.0,api
+FCD1399,285,Cohen And Tate Dual Format,0.0,2016-12-05T00:00:00Z,18.0,api
+SECONDRUN113,1237,Three Wishes for Cinderella DVD,0.0,2016-12-05T00:00:00Z,12.0,api
+FCD1295,548,Crimes And Misdemeanors Blu-ray,0.0,2016-12-03T00:00:00Z,15.0,api
+FCD1383,147,The Driller Killer Dual Format,0.0,2016-11-28T00:00:00Z,18.0,api
+TWFBD029,966,Lowlife Love Dual Format,0.0,2016-11-21T00:00:00Z,18.0,api
+FCD1385,649,The Hired Hand Dual Format,0.0,2016-11-21T00:00:00Z,18.0,api
+FCD1384,81,To Live And Die In LA Dual Format,0.0,2016-11-21T00:00:00Z,18.0,api
+FCD1386,286,Howling II: Your Sister Is A Werewolf Dual Format,0.0,2016-11-14T00:00:00Z,18.0,api
+FCD1285,557,Interiors Blu-ray,0.0,2016-11-14T00:00:00Z,15.0,api
+FCD1381,560,Jamaica Inn Blu-ray,0.0,2016-11-07T00:00:00Z,15.0,api
+FCD1180,669,The Code Season 2 DVD,0.0,2016-11-07T00:00:00Z,12.0,api
+FCD1382,119,The Initiation Dual Format,0.0,2016-11-07T00:00:00Z,18.0,api
+FCD1151,630,Closely Observed Trains Dual Format,0.0,2016-10-30T00:00:00Z,18.0,api
+FCD1215,253,Bride of Re-animator Dual Format,0.0,2016-10-24T00:00:00Z,18.0,api
+TWFBD028,955,Kids Return Blu-ray,0.0,2016-10-24T00:00:00Z,15.0,api
+FCD1373,61,52 Pick-Up Dual Format,0.0,2016-10-17T00:00:00Z,18.0,api
+FCD1376,207,Burnt Offerings Dual Format,0.0,2016-10-17T00:00:00Z,18.0,api
+FCD1368,638,Cosmos Blu-ray,0.0,2016-10-17T00:00:00Z,15.0,api
+FCD1369,639,Cosmos DVD,0.0,2016-10-17T00:00:00Z,12.0,api
+FCD1319,726,Beck-Vol. 2 DVD,0.0,2016-10-10T00:00:00Z,12.0,api
+FCD1372,295,Dark Water Dual Format,0.0,2016-10-10T00:00:00Z,18.0,api
+FCD1284,565,Love And Death Blu-ray,0.0,2016-10-03T00:00:00Z,15.0,api
+FCD1356,751,Maigret Season 1 DVD,0.0,2016-10-03T00:00:00Z,12.0,api
+FCD1283,590,Sleeper Blu-ray,0.0,2016-10-03T00:00:00Z,15.0,api
+FCD1370,79,Vamp Blu-ray,0.0,2016-10-03T00:00:00Z,15.0,api
+FCD1436,579,Story Of Sin Dual Format,0.0,2017-03-13T00:00:00Z,18.0,api
+FCD1435,652,The Creeping Garden Dual Format,0.0,2017-03-13T00:00:00Z,18.0,api
+FCD1294,545,Another Woman Blu-ray,0.0,2017-03-06T00:00:00Z,15.0,api
+FCD1388,315,Hellgate Blu-ray,0.0,2017-03-06T00:00:00Z,15.0,api
+FCD1293,592,September Blu-ray,0.0,2017-03-06T00:00:00Z,15.0,api
+FCD1426,668,Apple Tree Yard Blu-ray,0.0,2017-02-20T00:00:00Z,14.0,api
+FCD1418,666,Apple Tree Yard DVD,0.0,2017-02-20T00:00:00Z,12.0,api
+FCD1291,852,Hannah and Her Sisters Blu-ray,0.0,2017-02-20T00:00:00Z,15.0,api
+FCD1292,577,Radio Days Blu-ray,0.0,2017-02-20T00:00:00Z,15.0,api
+FCD1423,80,Tower Of London Dual Format,0.0,2017-02-13T00:00:00Z,18.0,api
+FCD1397,37,We Are The Flesh Blu-ray,0.0,2017-02-06T00:00:00Z,15.0,api
+FCD1422,70,Willie Dynamite Dual Format,0.0,2017-02-06T00:00:00Z,18.0,api
+SECONDRUNBD004,1246,"Electra, My Love Blu-ray",0.0,2016-09-26T00:00:00Z,18.0,api
+FCD1282,550,Everything You Always Wanted To Know About Sex* But Were Afraid To Ask Blu-ray,0.0,2016-09-26T00:00:00Z,15.0,api
+FCD1366,184,Slugs Blu-ray,0.0,2016-09-26T00:00:00Z,15.0,api
+FCD1281,546,Bananas Blu-ray,0.0,2016-09-23T00:00:00Z,15.0,api
+FCD1362,301,Dead End Drive-In Blu-ray,0.0,2016-09-19T00:00:00Z,15.0,api
+FCD1363,300,Dead End Drive-In DVD,0.0,2016-09-19T00:00:00Z,12.0,api
+FCD1360,661,The Blue Dahlia Blu-ray,0.0,2016-09-19T00:00:00Z,15.0,api
+FCD1361,650,The Glass Key Blu-ray,0.0,2016-09-19T00:00:00Z,15.0,api
+FCD954,547,Blanche Dual Format,0.0,2016-09-17T00:00:00Z,18.0,api
+TWFBD027,931,A Scene at the Sea Blu-ray,0.0,2016-09-12T00:00:00Z,15.0,api
+FCD1358,251,Matinee Dual Format,0.0,2016-09-12T00:00:00Z,18.0,api
+FCD1352,646,Hangmen Also Die! Dual Format,0.0,2016-08-29T00:00:00Z,18.0,api
+FCD1340,676,Narcos Season 1 Blu-ray,0.0,2016-08-29T00:00:00Z,14.0,api
+FCD1339,675,Narcos Season 1 DVD,0.0,2016-08-29T00:00:00Z,12.0,api
+FCD1353,156,The Bloodstained Butterfly Dual Format,0.0,2016-08-22T00:00:00Z,18.0,api
+FCD1351,250,Microwave Massacre Dual Format,0.0,2016-08-15T00:00:00Z,18.0,api
+FCD1220,582,The R. W. Fassbinder Early Works Blu-ray,0.0,2016-08-15T00:00:00Z,15.0,api
+SECONDRUNBD003,1245,The Shop on the High Street Blu-ray,0.0,2016-08-15T00:00:00Z,18.0,api
+SECONDRUN109,1454,The Shop on the High Street DVD,0.0,2016-08-15T00:00:00Z,12.0,api
+FCD1349,151,The Count Yorga Collection Blu-ray,0.0,2016-08-08T00:00:00Z,15.0,api
+FCD1186,92,The Yakuza Papers: Battles Without Honour And Humanity Dual Format,0.0,2016-08-08T00:00:00Z,18.0,api
+FCD1190,91,The Yakuza Papers: Final Episode Dual Format,0.0,2016-08-08T00:00:00Z,18.0,api
+FCD1187,90,The Yakuza Papers: Hiroshima Death Match Dual Format,0.0,2016-08-08T00:00:00Z,18.0,api
+FCD1189,89,The Yakuza Papers: Police Tactics Dual Format,0.0,2016-08-08T00:00:00Z,18.0,api
+FCD1188,88,The Yakuza Papers: Proxy War Dual Format,0.0,2016-08-08T00:00:00Z,18.0,api
+FCD1347,296,David Cronenberg's Early Works Blu-ray,0.0,2016-08-01T00:00:00Z,15.0,api
+FCD1324,691,Gomorrah Season 2 Blu-ray,0.0,2016-07-25T00:00:00Z,14.0,api
+FCD1311,690,Gomorrah Season 2 DVD,0.0,2016-07-25T00:00:00Z,12.0,api
+FCD1224,549,Effi Briest Blu-ray,0.0,2016-07-18T00:00:00Z,15.0,api
+FCD1225,564,Fox And His Friends (+ Chinese Roulette) Blu-ray,0.0,2016-07-18T00:00:00Z,15.0,api
+FCD1337,291,Crimes Of Passion Dual Format,0.0,2016-07-11T00:00:00Z,18.0,api
+TWFBD026,963,Love & Peace Blu-ray,0.0,2016-07-11T00:00:00Z,15.0,api
+TWF067,962,Love & Peace DVD,0.0,2016-07-11T00:00:00Z,7.0,api
+FCD1336,203,Satan's Blade Dual Format,0.0,2016-07-11T00:00:00Z,18.0,api
+FCD1328,178,Suture Dual Format,0.0,2016-07-04T00:00:00Z,18.0,api
+FCD1305,800,The Disappearance Blu-ray,0.0,2016-07-04T00:00:00Z,14.0,api
+FCD1275,799,The Disappearance DVD,0.0,2016-07-04T00:00:00Z,12.0,api
+FCD1334,584,The Ox-Bow Incident Dual Format,0.0,2016-07-04T00:00:00Z,18.0,api
+FCD1335,97,The Swinging Cheerleaders Dual Format,0.0,2016-07-04T00:00:00Z,18.0,api
+FCD1308,361,A Private Function DVD,0.0,2016-06-27T00:00:00Z,7.0,api
+SECONDRUN102,1236,Joshua Oppenheimer: 12 Early Works DVD,0.0,2016-06-27T00:00:00Z,12.0,api
+FCD1329,212,Return Of The Killer Tomatoes Dual Format,0.0,2016-06-27T00:00:00Z,18.0,api
+FCD1247,118,The Key Blu-ray,0.0,2016-06-20T00:00:00Z,15.0,api
+FCD1248,117,The Key DVD,0.0,2016-06-20T00:00:00Z,7.0,api
+FCD1243,762,Camilla Läckberg - Fjallbacka Murders Boxset DVD,0.0,2016-06-13T00:00:00Z,12.0,api
+FCD1326,542,Too Late for Tears Dual Format,0.0,2016-06-13T00:00:00Z,18.0,api
+FCD1327,534,Woman On The Run Dual Format,0.0,2016-06-13T00:00:00Z,18.0,api
+FCD1270,783,Thicker Than Water Season 1 DVD,0.0,2016-06-06T00:00:00Z,12.0,api
+FCD1298,803,Trapped Season 1 Blu-ray,0.0,2016-04-11T00:00:00Z,14.0,api
+FCD1306,187,"Black Mama, White Mama Blu-ray",0.0,2016-04-04T00:00:00Z,15.0,api
+FCD1222,662,The Bitter Tears Of Petra Von Kant Blu-ray,0.0,2016-04-04T00:00:00Z,15.0,api
+FCD1169,160,The Black Cat Blu-ray,0.0,2016-04-04T00:00:00Z,15.0,api
+FCD1226,596,The Marriage of Maria Braun Blu-ray,0.0,2016-04-04T00:00:00Z,15.0,api
+FCD1238,551,Three Brothers Dual Format,0.0,2016-04-04T00:00:00Z,18.0,api
+FCD1168,67,Your Vice Is A Locked Room And Only I Have The Key Blu-ray,0.0,2016-04-04T00:00:00Z,15.0,api
+FCD1276,66,Your Vice Is A Locked Room And Only I Have The Key DVD,0.0,2016-04-04T00:00:00Z,12.0,api
+FCD1223,554,Fear Eats The Soul Blu-ray,0.0,2016-03-28T00:00:00Z,15.0,api
+SECONDRUNBD001,1243,Horse Money Blu-ray,0.0,2016-03-28T00:00:00Z,18.0,api
+SECONDRUN100,1506,Horse Money DVD,0.0,2016-03-28T00:00:00Z,12.0,api
+FCD1221,593,The Merchant of Four Seasons + Beware Of A Holy Whore Blu-ray,0.0,2016-03-28T00:00:00Z,15.0,api
+TWFBD021,1132,Ruined Heart: Another Lovestory Between a Criminal and a Whore Blu-ray,0.0,2015-12-07T00:00:00Z,15.0,api
+FCD1195,76,Videodrome Blu-ray,0.0,2015-12-07T00:00:00Z,15.0,api
+FCD1194,77,Videodrome DVD,0.0,2015-12-07T00:00:00Z,12.0,api
+FCD1202,701,River - The Complete Series Blu-ray,0.0,2015-11-30T00:00:00Z,14.0,api
+FCD1161,700,River - The Complete Series DVD,0.0,2015-11-30T00:00:00Z,12.0,api
+FCD1191,75,Wake Up And Kill Dual Format,0.0,2015-11-23T00:00:00Z,18.0,api
+FCD1197,724,Beck-Vol. 1 DVD,0.0,2015-11-16T00:00:00Z,12.0,api
+FCD1170,176,Tenderness Of The Wolves Dual Format,0.0,2015-11-02T00:00:00Z,18.0,api
+FCD1156,663,1992 DVD,0.0,2015-10-26T00:00:00Z,12.0,api
+FCD1150,651,The Fireman's Ball Dual Format,0.0,2015-10-12T00:00:00Z,18.0,api
+FCD1090,83,Time Bandits DVD,0.0,2015-10-12T00:00:00Z,12.0,api
+FCD1053,732,Witnesses Season 1 Blu-ray,0.0,2015-10-05T00:00:00Z,14.0,api
+TWFBD024,944,Dolls Blu-ray,0.0,2016-03-14T00:00:00Z,15.0,api
+FCD1209,133,Audition Blu-ray,0.0,2016-02-29T00:00:00Z,15.0,api
+TWFBD023,956,Kikujiro Blu-ray,0.0,2016-02-22T00:00:00Z,15.0,api
+FCD1214,216,Reform School Girls DVD,0.0,2016-02-15T00:00:00Z,12.0,api
+FCD1149,112,The Mutilator Dual Format,0.0,2016-02-15T00:00:00Z,18.0,api
+FCD1229,703,Romanzo Criminale Season 2 DVD,0.0,2016-02-01T00:00:00Z,12.0,api
+FCD1242,288,Hellraiser Trilogy Box Set Blu-ray,0.0,2016-01-25T00:00:00Z,40.0,api
+FCD1193,721,Arne Dahl Season 2 DVD,0.0,2016-01-11T00:00:00Z,12.0,api
+TWFBD022,952,Hana-Bi Blu-ray,0.0,2016-01-11T00:00:00Z,15.0,api
+FCD1163,819,The Bridge Season 3 Blu-ray,0.0,2015-12-21T00:00:00Z,14.0,api
+FCD1162,818,The Bridge Season 3 DVD,0.0,2015-12-21T00:00:00Z,12.0,api
+FCD1198,73,What Have You Done To Solange? Dual Format,0.0,2015-12-14T00:00:00Z,18.0,api
+FCD1265,674,SAS: Who Dares Wins Season 1 DVD,0.0,2016-06-03T00:00:00Z,12.0,api
+FCD1231,729,Hinterland Season 2 DVD,0.0,2016-05-30T00:00:00Z,12.0,api
+FCD1301,287,Hired To Kill Dual Format,0.0,2016-05-16T00:00:00Z,18.0,api
+FCD1320,317,Deep Red Blu-ray,0.0,2016-05-02T00:00:00Z,15.0,api
+FCD1299,769,Follow the Money S1 Blu-ray,0.0,2016-04-25T00:00:00Z,14.0,api
+FCD1268,768,Follow the Money S1 DVD,0.0,2016-04-25T00:00:00Z,12.0,api
+FCD1259,87,The Zero Boys Dual Format,0.0,2016-04-25T00:00:00Z,18.0,api
+TWFBD025,1131,Uzumasa Limelight Blu-ray,0.0,2016-04-25T00:00:00Z,15.0,api
+TWF066,1130,Uzumasa Limelight DVD,0.0,2016-04-25T00:00:00Z,7.5,api
+FCD1267,772,Heartless DVD,0.0,2016-04-18T00:00:00Z,12.0,api
+SECONDRUNBD002,1244,Mysterious Object at Noon Blu-ray,0.0,2016-04-18T00:00:00Z,18.0,api
+FCD1230,802,Trapped Season 1 DVD,0.0,2016-04-16T00:00:00Z,12.0,api
+FCD1038,734,Witnesses Season 1 DVD,0.0,2015-10-05T00:00:00Z,12.0,api
+TWFBD020,934,A Snake of June Blu-ray,0.0,2015-09-28T00:00:00Z,15.0,api
+FCD1083,683,Fog & Crimes Season 3 DVD,0.0,2015-09-28T00:00:00Z,12.0,api
+FCD1122,336,Eaten Alive Dual Format,0.0,2015-09-21T00:00:00Z,18.0,api
+FCD1145,617,Hard To Be A God Blu-ray,0.0,2015-09-14T00:00:00Z,15.0,api
+FCD1146,616,Hard To Be A God DVD,0.0,2015-09-14T00:00:00Z,7.0,api
+FCD1137,702,Romanzo Criminale Season 1 DVD,0.0,2015-09-14T00:00:00Z,12.0,api
+FCD1098,748,Lilyhammer Season 3 DVD,0.0,2015-08-24T00:00:00Z,12.0,api
+FCD1112,242,Nightmare City Dual Format,0.0,2015-08-24T00:00:00Z,18.0,api
+FCD1134,561,La Grande Bouffe Dual Format,0.0,2015-08-17T00:00:00Z,18.0,api
+FCD1164,785,The Saboteurs Blu-ray,0.0,2015-08-10T00:00:00Z,14.0,api
+FCD1118,786,The Saboteurs DVD,0.0,2015-08-10T00:00:00Z,12.0,api
+FCD1130,246,Nekromantik Dual Format,0.0,2015-08-03T00:00:00Z,18.0,api
+FCD1128,792,The Legacy Season 2 Blu-ray,0.0,2015-07-27T00:00:00Z,14.0,api
+FCD1127,791,The Legacy Season 2 DVD,0.0,2015-07-27T00:00:00Z,12.0,api
+FCD1121,274,Cemetery Without Crosses Dual Format,0.0,2015-07-20T00:00:00Z,18.0,api
+FCD1129,711,30 Degrees In February DVD,0.0,2015-07-06T00:00:00Z,12.0,api
+FCD1109,247,Mona Lisa Blu-ray,0.0,2015-07-06T00:00:00Z,15.0,api
+FCD1107,512,Mona Lisa DVD,0.0,2015-07-06T00:00:00Z,7.0,api
+FCD929,249,Milano Calibro 9 Dual Format,0.0,2015-06-15T00:00:00Z,18.0,api
+FCD1093,85,Thief DVD,0.0,2015-06-01T00:00:00Z,7.0,api
+TWF064,1363,Be My Baby DVD,0.0,2015-05-25T00:00:00Z,7.5,api
+FCD1084,435,The Spider DVD,0.0,2015-06-15T00:00:00Z,12.0,api
+FCD1092,704,1864 DVD,0.0,2015-06-08T00:00:00Z,12.0,api
+FCD1089,236,Bound DVD,0.0,2015-05-25T00:00:00Z,7.0,api
+FCD1106,280,Island Of Death Dual Format,0.0,2015-05-25T00:00:00Z,18.0,api
+FCD1124,602,Miracle in Milan Blu-ray,0.0,2015-05-25T00:00:00Z,15.0,api
+FCD1110,129,The Hound Of The Baskervilles Blu-ray,0.0,2015-06-01T00:00:00Z,15.0,api
+FCD1082,682,Fog & Crimes Season 2 DVD,0.0,2015-05-11T00:00:00Z,12.0,api
+FCD1049,84,Thief Blu-ray,0.0,2015-06-01T00:00:00Z,15.0,api
+FCD1079,578,The Strange Case Of Dr Jekyll And Miss Osbourne Dual Format,0.0,2015-05-11T00:00:00Z,18.0,api
+FCD1103,567,The Train Blu-ray,0.0,2015-05-11T00:00:00Z,15.0,api
+FCD1102,113,The Long Good Friday DVD,0.0,2015-04-27T00:00:00Z,7.0,api
+FCD1075,283,Coffy Blu-ray,0.0,2015-04-20T00:00:00Z,15.0,api
+SECONDRUN095,1505,Fruit of Paradise DVD,0.0,2015-04-13T00:00:00Z,12.0,api
+FCD1054,746,Lilyhammer Season 2 Blu-ray,0.0,2015-04-06T00:00:00Z,14.0,api
+FCD1042,745,Lilyhammer Season 2 DVD,0.0,2015-04-06T00:00:00Z,12.0,api
+FCD1073,570,The Sweet Smell Of Success Blu-ray,0.0,2015-03-30T00:00:00Z,15.0,api
+FCD1074,575,Network Blu-ray,0.0,2015-03-23T00:00:00Z,15.0,api
+FCD1072,211,Rollerball Blu-ray,0.0,2015-03-23T00:00:00Z,15.0,api
+SECONDRUN093,1235,Traps DVD,0.0,2015-03-23T00:00:00Z,12.0,api
+FCD1033,323,Demons Dual Format,0.0,2015-03-16T00:00:00Z,18.0,api
+FCD938,692,Hostages Season 1 DVD,0.0,2015-03-16T00:00:00Z,12.0,api
+FCD1091,510,Mrs. Caldicott's Cabbage War DVD,0.0,2015-03-09T00:00:00Z,7.0,api
+FCD1030,177,Tales Of Terror Blu-ray,0.0,2015-03-09T00:00:00Z,15.0,api
+FCD1031,105,The Raven Blu-ray,0.0,2015-03-09T00:00:00Z,15.0,api
+FCD1081,525,Like Water For Chocolate Dual Format,0.0,2015-03-02T00:00:00Z,10.0,api
+FCD1028,136,The Haunted Palace Blu-ray,0.0,2015-02-23T00:00:00Z,15.0,api
+TWF058,1134,Sake Bomb DVD,0.0,2014-08-25T00:00:00Z,7.5,api
+FCD966,237,Bound Dual Format,0.0,2014-08-18T00:00:00Z,18.0,api
+FCD942,239,Branded to Kill Dual Format,0.0,2014-08-18T00:00:00Z,18.0,api
+FCD956,655,The Beast Dual Format,0.0,2014-08-18T00:00:00Z,15.0,api
+TWF057,1127,Behind the Camera DVD,0.0,2014-07-28T00:00:00Z,7.5,api
+FCD937,699,Prisoners Of War Season 2 DVD,0.0,2014-07-28T00:00:00Z,12.0,api
+FCD988,714,Braquo Season 3 DVD,0.0,2014-07-21T00:00:00Z,12.0,api
+FCD965,215,Remo Williams: The Adventure Begins Blu-ray,0.0,2014-07-07T00:00:00Z,15.0,api
+FCD907,93,The Wild Geese Blu-ray,0.0,2014-06-30T00:00:00Z,18.0,api
+FCD977,744,Wallander - Films 1-7 DVD,0.0,2014-06-23T00:00:00Z,12.0,api
+FCD979,743,Wallander - Films 14-20 DVD,0.0,2014-06-23T00:00:00Z,12.0,api
+FCD980,741,Wallander - Films 21-26 DVD,0.0,2014-06-23T00:00:00Z,12.0,api
+FCD1024,622,The Killers (1946) Blu-ray,0.0,2014-12-08T00:00:00Z,15.0,api
+FCD1032,217,Red Scorpion Blu-ray,0.0,2014-11-17T00:00:00Z,15.0,api
+FCD1026,595,Rififi Blu-ray,0.0,2014-11-17T00:00:00Z,15.0,api
+FCD1022,342,Dr Phibes Rises Again Blu-ray,0.0,2014-11-10T00:00:00Z,15.0,api
+FCD1011,457,How to Get Ahead in Advertising DVD,0.0,2014-11-10T00:00:00Z,7.0,api
+FCD1021,166,The Abominable Dr Phibes Blu-ray,0.0,2014-11-10T00:00:00Z,15.0,api
+FCD960,475,Stalingrad DVD,0.0,2014-11-03T00:00:00Z,7.0,api
+FCD999,670,The Code Season 1 DVD,0.0,2014-11-03T00:00:00Z,12.0,api
+FCD1013,681,Fog & Crimes Season 1 DVD,0.0,2014-10-27T00:00:00Z,12.0,api
+FCD998,687,Gomorrah Season 1 Blu-ray,0.0,2014-10-27T00:00:00Z,14.0,api
+FCD939,686,Gomorrah Season 1 DVD,0.0,2014-10-27T00:00:00Z,12.0,api
+FCD893,679,Inspector Nardone DVD,0.0,2014-10-27T00:00:00Z,12.0,api
+TWF054,1133,The Story of Yonosuke DVD,0.0,2014-04-14T00:00:00Z,7.5,api
+FCD901,228,Pit Stop Dual Format,0.0,2014-04-07T00:00:00Z,18.0,api
+FCD899,196,Blind Woman's Curse Dual Format,0.0,2014-03-31T00:00:00Z,18.0,api
+FCD900,72,White Of The Eye Dual Format,0.0,2014-03-31T00:00:00Z,18.0,api
+TWF053,1287,Shady DVD,0.0,2014-03-24T00:00:00Z,10.0,api
+FCD912,759,Salamander DVD,0.0,2014-03-17T00:00:00Z,12.0,api
+TWF052,1289,Boomerang Family DVD,0.0,2014-02-24T00:00:00Z,10.0,api
+FCD895,231,Phantom Of The Paradise Blu-ray,0.0,2014-02-24T00:00:00Z,15.0,api
+FCD896,628,The Killers Blu-ray,0.0,2014-02-24T00:00:00Z,15.0,api
+FCD831,817,The Bridge Season 2 Blu-ray,0.0,2014-02-03T00:00:00Z,14.0,api
+FCD830,816,The Bridge Season 2 DVD,0.0,2014-02-03T00:00:00Z,12.0,api
+TWF051,1135,How to Use Guys with Secret Tips DVD,0.0,2014-01-27T00:00:00Z,7.5,api
+FCD1029,95,The Tomb Of Ligeia Blu-ray,0.0,2015-02-23T00:00:00Z,15.0,api
+FCD1041,152,The Comedy Of Terrors Dual Format,0.0,2015-02-16T00:00:00Z,18.0,api
+FCD1046,618,The Killing + Killer's Kiss Blu-ray,0.0,2015-02-09T00:00:00Z,15.0,api
+FCD1052,790,The Legacy Season 1 Blu-ray,0.0,2015-02-09T00:00:00Z,14.0,api
+FCD1012,789,The Legacy Season 1 DVD,0.0,2015-02-09T00:00:00Z,12.0,api
+FCD1045,69,Withnail And I Blu-ray,0.0,2015-02-09T00:00:00Z,15.0,api
+FCD1010,393,Withnail And I DVD,0.0,2015-02-09T00:00:00Z,7.0,api
+TWFBD018,951,Greatful Dead Blu-ray,0.0,2015-01-26T00:00:00Z,15.0,api
+TWF061,950,Greatful Dead DVD,0.0,2015-01-26T00:00:00Z,10.0,api
+SECONDRUN090,1234,Kinetta DVD,0.0,2015-01-26T00:00:00Z,12.0,api
+TWF063,1128,Fukuchan of Fukufuku Flats DVD,0.0,2015-01-01T00:00:00Z,7.5,api
+TWF065,1129,Makeup Room DVD,0.0,2015-01-01T00:00:00Z,7.5,api
+FCD936,764,Crimes Of Passion DVD,0.0,2014-10-06T00:00:00Z,12.0,api
+FCD915,797,The Hour of the Lynx DVD,0.0,2014-10-06T00:00:00Z,7.0,api
+FCD1008,94,The Visitor Dual Format,0.0,2014-10-06T00:00:00Z,18.0,api
+TWFBD017,960,Lesson of Evil Blu-ray,0.0,2014-09-29T00:00:00Z,15.0,api
+TWF059,959,Lesson of Evil DVD,0.0,2014-09-29T00:00:00Z,10.0,api
+FCD967,257,Mark Of The Devil Dual Format,0.0,2014-09-29T00:00:00Z,18.0,api
+SECONDRUN089,1504,A Jester's Tale DVD,0.0,2014-09-15T00:00:00Z,12.0,api
+FCD931,173,The 'Burbs Blu-ray,0.0,2014-09-15T00:00:00Z,15.0,api
+FCD953,555,"Goto, Isle Of Love Dual Format",0.0,2014-09-08T00:00:00Z,18.0,api
+FCD955,559,Immoral Tales Dual Format,0.0,2014-09-08T00:00:00Z,18.0,api
+FCD952,539,Walerian Borowczyk (Short Films & Animation) Dual Format,0.0,2014-09-08T00:00:00Z,18.0,api
+FCD994,511,Mr Morgan's Last Love DVD,0.0,2014-09-01T00:00:00Z,7.0,api
+FCD894,738,Wallander - Films 27-32 DVD,0.0,2014-06-23T00:00:00Z,12.0,api
+FCD978,740,Wallander - Films 8-13 DVD,0.0,2014-06-23T00:00:00Z,12.0,api
+FCD926,227,Porky's Blu-ray,0.0,2014-06-16T00:00:00Z,15.0,api
+TWF055,1288,Bleak Night DVD,0.0,2014-05-26T00:00:00Z,10.0,api
+FCD935,727,Hinterland Season 1 DVD,0.0,2014-05-26T00:00:00Z,12.0,api
+FCD898,583,Sullivan's Travels Blu-ray,0.0,2014-05-26T00:00:00Z,15.0,api
+FCD924,107,The Pit And The Pendulum Blu-ray,0.0,2014-05-19T00:00:00Z,15.0,api
+FCD928,86,Theatre Of Blood Blu-ray,0.0,2014-05-19T00:00:00Z,15.0,api
+FCD913,684,Generation War DVD,0.0,2014-05-12T00:00:00Z,12.0,api
+FCD934,775,Mammon DVD,0.0,2014-05-05T00:00:00Z,12.0,api
+FCD916,680,Inspector De Luca DVD,0.0,2014-04-14T00:00:00Z,12.0,api
+TWFBD015,1136,The Story of Yonosuke Blu-ray,0.0,2014-04-14T00:00:00Z,15.0,api
+FCD816,779,Unit One Season 3 DVD,0.0,2014-01-06T00:00:00Z,12.0,api
+SECONDRUN112,1315,Falling Star (Stella Candente) DVD,0.0,2014-01-01T00:00:00Z,12.0,api
+TWFBD014,939,Bullet Ballet Blu-ray,0.0,2013-12-30T00:00:00Z,15.0,api
+TWF050,938,Bullet Ballet DVD,0.0,2013-12-30T00:00:00Z,10.0,api
+FCD905,765,Don't Ever Wipe Tears Without Gloves DVD,0.0,2013-12-26T00:00:00Z,12.0,api
+FCD882,185,Big Trouble In Little China Blu-ray,0.0,2013-12-16T00:00:00Z,15.0,api
+FCD744,747,Borgen Season 3 Blu-ray,0.0,2013-12-16T00:00:00Z,14.0,api
+FCD743,750,Borgen Season 3 DVD,0.0,2013-12-16T00:00:00Z,12.0,api
+FCD820,633,Cinema Paradiso 25th Anniversary DVD,0.0,2013-12-16T00:00:00Z,7.0,api
+FCD887,634,Cinema Paradiso 25th Anniversay Remastered Edition Blu-ray,0.0,2013-12-16T00:00:00Z,15.0,api
+FCD903,610,The Long Goodbye Blu-ray,0.0,2013-12-16T00:00:00Z,15.0,api
+FCD828,524,Looking For Hortense DVD,0.0,2013-12-03T00:00:00Z,7.0,api
+FCD902,240,Obsession Blu-ray,0.0,2013-11-25T00:00:00Z,15.0,api
+TWFBD013,973,Tokyo Fist Blu-ray,0.0,2013-11-25T00:00:00Z,15.0,api
+TWF049,972,Tokyo Fist DVD,0.0,2013-11-25T00:00:00Z,10.0,api
+FCD814,770,Van Veeteren Volume 2 DVD,0.0,2013-11-25T00:00:00Z,12.0,api
+FCD884,282,Invasion Of The Bodysnatchers Blu-ray,0.0,2013-11-18T00:00:00Z,15.0,api
+FCD872,108,The People Under The Stairs Blu-ray,0.0,2013-11-04T00:00:00Z,15.0,api
+FCD815,715,Anno 1790 DVD,0.0,2013-10-28T00:00:00Z,12.0,api
+FCD871,144,The Fury Blu-ray,0.0,2013-10-28T00:00:00Z,15.0,api
+SECONDRUN082,1314,Ikarie XB 1 DVD,0.0,2013-09-23T00:00:00Z,12.0,api
+TWF047,1124,Eyes of the Spider / Serpent's Path DVD,0.0,2013-09-09T00:00:00Z,10.0,api
+FCD811,519,Love Is All You Need DVD,0.0,2013-09-02T00:00:00Z,7.0,api
+FCD800,359,A Hijacking DVD,0.0,2013-08-26T00:00:00Z,7.0,api
+FCD708,654,The Conformist Blu-Ray,0.0,2013-08-26T00:00:00Z,15.0,api
+FCD709,656,The Conformist DVD,0.0,2013-08-26T00:00:00Z,7.0,api
+FCD844,145,The Fall of the House of Usher Blu-ray,0.0,2013-08-26T00:00:00Z,15.0,api
+TWFBD012,971,The Land of Hope Blu-ray,0.0,2013-08-26T00:00:00Z,15.0,api
+TWF046,970,The Land of Hope DVD,0.0,2013-08-26T00:00:00Z,7.0,api
+FCD839,82,Time Bandits Blu-ray,0.0,2013-08-26T00:00:00Z,15.0,api
+FCD802,756,Maison Close Season 2 Blu-ray,0.0,2013-08-19T00:00:00Z,14.0,api
+FCD801,755,Maison Close Season 2 DVD,0.0,2013-08-19T00:00:00Z,12.0,api
+FCD842,343,Dressed To Kill Blu-ray,0.0,2013-07-29T00:00:00Z,15.0,api
+SECONDRUN080,1313,One. Two. One DVD,0.0,2013-07-22T00:00:00Z,12.0,api
+FCD867,438,The Returned,0.0,2013-07-22T00:00:00Z,7.0,api
+FCD803,780,Unit One Season 2 DVD,0.0,2013-07-22T00:00:00Z,12.0,api
+FCD645,709,Braquo Season 2 DVD,0.0,2012-06-18T00:00:00Z,12.0,api
+SECONDRUN071,1233,Mother Joan of the Angels DVD,0.0,2012-05-28T00:00:00Z,12.0,api
+FCD617,815,The Bridge Season 1 Blu-ray,0.0,2012-05-21T00:00:00Z,14.0,api
+FCD609,814,The Bridge Season 1 DVD,0.0,2012-05-21T00:00:00Z,12.0,api
+FCD625,706,Braquo Season 1 Blu-ray,0.0,2012-04-30T00:00:00Z,14.0,api
+FCD608,705,Braquo Season 1 DVD,0.0,2012-04-30T00:00:00Z,12.0,api
+FCD647,169,Battle Royale Blu-ray,0.0,2012-04-16T00:00:00Z,15.0,api
+FCD503,326,Frankenhooker Blu-ray,0.0,2012-01-02T00:00:00Z,15.0,api
+TWFBD016,1126,Pluto Blu-ray,0.0,2012-01-01T00:00:00Z,15.0,api
+TWF056,1125,Pluto DVD,0.0,2012-01-01T00:00:00Z,10.0,api
+TWFBD010,1123,Vulgaria Blu-ray,0.0,2012-01-01T00:00:00Z,15.0,api
+TWF044,1122,Vulgaria DVD,0.0,2012-01-01T00:00:00Z,7.5,api
+FCD563,810,The Killing Season 2 DVD,0.0,2011-12-19T00:00:00Z,12.0,api
+FCD554,146,The Exterminator Blu-ray,0.0,2011-11-07T00:00:00Z,15.0,api
+FCD552,258,Maniac Cop Blu-ray,0.0,2011-10-31T00:00:00Z,15.0,api
+SECONDRUN061,1503,Red Psalm DVD,0.0,2011-10-24T00:00:00Z,12.0,api
+SECONDRUN058,1311,Szindbád DVD,0.0,2011-07-11T00:00:00Z,12.0,api
+TWFBD004,941,Cold Fish Blu-ray,0.0,2011-06-27T00:00:00Z,15.0,api
+TWF041,1119,Isn't Anyone Alive DVD,0.0,2011-06-06T00:00:00Z,10.0,api
+TWF043,1120,The Woodsman and the Rain DVD,0.0,2011-06-06T00:00:00Z,7.5,api
+FCD534,809,The Killing Season 1 DVD,0.0,2011-04-04T00:00:00Z,12.0,api
+SECONDRUN054,1310,Loves of a Blonde DVD,0.0,2011-01-24T00:00:00Z,12.0,api
+TWFBD009,1121,The Woodsman and the Rain Blu-ray,0.0,2011-01-02T00:00:00Z,15.0,api
+FCD467,121,A Bay of Blood Blu-ray,0.0,2010-12-13T00:00:00Z,15.0,api
+FCD856,154,The Car Blu-ray,0.0,2013-07-15T00:00:00Z,15.0,api
+FCD781,328,Foxy Brown Blu-ray,0.0,2013-06-24T00:00:00Z,15.0,api
+FCD794,181,Spider Baby Dual Format,0.0,2013-06-24T00:00:00Z,18.0,api
+FCD804,796,Accused DVD,0.0,2013-06-17T00:00:00Z,7.0,api
+FCD808,719,Arne Dahl Season 1 DVD,0.0,2013-06-10T00:00:00Z,12.0,api
+FCD807,776,Van Veeteren Volume 1 DVD,0.0,2013-05-13T00:00:00Z,12.0,api
+FCD770,495,Ray Harryhausen: Special Effects Titan Blu-ray,0.0,2013-03-11T00:00:00Z,10.0,api
+FCD769,494,Ray Harryhausen: Special Effects Titan DVD,0.0,2013-03-11T00:00:00Z,7.0,api
+FCD687,811,The Killing Season 3 DVD,0.0,2012-12-17T00:00:00Z,12.0,api
+TWFBD007,958,Kotoko Blu-ray,0.0,2012-10-08T00:00:00Z,15.0,api
+TWFBD006,965,Love Exposure Blu-ray,0.0,2012-08-13T00:00:00Z,15.0,api
+FCD630,739,Borgen Season 2 Blu-ray,0.0,2013-02-04T00:00:00Z,14.0,api
+FCD629,742,Borgen Season 2 DVD,0.0,2013-02-04T00:00:00Z,12.0,api
+TWFBD005,954,Himizu Blu-ray,0.0,2012-08-06T00:00:00Z,15.0,api
+TWF038,953,Himizu DVD,0.0,2012-08-06T00:00:00Z,7.0,api
+FCD661,698,Prisoners Of War Season 1 DVD,0.0,2012-07-16T00:00:00Z,12.0,api
+FCD766,712,"Above The Street, Below The Water DVD",0.0,2013-01-21T00:00:00Z,7.0,api
+FCD691,781,Unit One Season 1 DVD,0.0,2013-01-21T00:00:00Z,12.0,api
+FCD628,733,Borgen Season 1 Blu-ray,0.0,2012-07-09T00:00:00Z,14.0,api
+FCD679,737,Borgen Season 1 DVD,0.0,2012-07-09T00:00:00Z,12.0,api
+TWF036,1286,Mitsuko Delivers DVD,0.0,2012-07-09T00:00:00Z,10.0,api
+FCD667,486,Sebastian Bergman: The Cursed One Parts 1 & 2 Blu-ray,0.0,2012-06-25T00:00:00Z,14.0,api
+FCD626,485,Sebastian Bergman: The Cursed One Parts 1 & 2 DVD,0.0,2012-06-25T00:00:00Z,12.0,api
+FCD646,713,Braquo Season 2 Blu-ray,0.0,2012-06-18T00:00:00Z,14.0,api
+TWF012,1117,Turtles are Surprisingly Fast Swimmers DVD,0.0,2009-02-23T00:00:00Z,7.5,api
+SECONDRUN060,1312,Liverpool DVD,0.0,2009-01-05T00:00:00Z,12.0,api
+SECONDRUN035,1232,Valerie and Her Week of Wonders DVD,0.0,2008-08-25T00:00:00Z,12.0,api
+SECONDRUN034,1231,Tropical Malady DVD,0.0,2008-08-11T00:00:00Z,12.0,api
+TWF001,1362,No Blood No Tears DVD,0.0,2007-05-21T00:00:00Z,7.5,api
+SECONDRUN011,1307,David Holzman's Diary DVD,0.0,2006-01-30T00:00:00Z,12.0,api
+FCD148,410,Ulysses DVD,0.0,2004-02-23T00:00:00Z,7.0,api
+SECONDRUN050,1440,Morgiana DVD,0.0,2010-10-11T00:00:00Z,12.0,api
+SECONDRUN049,1309,The Unpolished DVD,0.0,2010-07-12T00:00:00Z,12.0,api
+TWF024,1285,Kakera: A Piece of Our Life DVD,0.0,2010-06-21T00:00:00Z,10.0,api
+TWF023,1118,Instant Swamp DVD,0.0,2010-05-24T00:00:00Z,7.5,api
+FCD448,413,The Wild Geese DVD,0.0,2010-02-15T00:00:00Z,7.0,api
+TWF019,964,Love Exposure DVD,0.0,2010-01-25T00:00:00Z,10.0,api
+SECONDRUN043,1308,Blood (O Sangue) DVD,0.0,2009-09-28T00:00:00Z,12.0,api
+TWF016,1116,Dasepo Naughty Girls DVD,0.0,2009-06-08T00:00:00Z,7.5,api
+SECONDRUN039,1439,Daisies DVD,0.0,2009-06-01T00:00:00Z,12.0,api
+FCD392,366,A Touch of Class DVD,0.0,2009-05-18T00:00:00Z,7.0,api
+FCD372,391,Zulu Dawn DVD,0.0,2009-04-27T00:00:00Z,7.0,api
+FCD370,415,The Wild Geese Special Edition DVD,0.0,2009-03-30T00:00:00Z,7.0,api
